@@ -1,3 +1,5 @@
+![The Seal of the State of Alaska](media/seal.jpg)
+
 **STATE OF ALASKA REQUEST FOR PROPOSALS**
 
 **Eligibility Modernization Milestone 2: Increments 1-5**
