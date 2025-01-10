@@ -146,9 +146,9 @@ procurement officer may result in the rejection of your offer.
 
 [Sec. 4.08 Mandatory Requirements (Submittal Form F)](#sec-408-mandatory-requirements-submittal-form-f)
 
-[Sec. 4.09 Subcontractors (Submittal Form G)](#sec-409-subcontractors-(submittal-form-e))
+[Sec. 4.09 Subcontractors (Submittal Form G)](#sec-409-subcontractors-submittal-form-e)
 
-[Sec. 4.10 Cost Proposal (Submittal Form H)](#sec-410-cost-proposal-(submittal-form-h))
+[Sec. 4.10 Cost Proposal (Submittal Form H)](#sec-410-cost-proposal-submittal-form-h)
 
 [Sec. 4.11 DOH IT Contractual Requirements](#sec-411-doh-it-contractual-requirements)
 
@@ -224,7 +224,21 @@ procurement officer may result in the rejection of your offer.
 
 ### Section 7. ATTACHMENTS
 
-**INTRODUCTION & INSTRUCTIONS**
+[Sec. 7.01 Attachment 1 -- Submittal Forms A - H](#sec-701-attachment-1----submittal-forms-a-h)
+
+[Sec. 7.02 Attachment 2 -- DOH IT Contractual Requirements](#sec-702-attachment-2----doh-it-contractual-requirements)
+
+[Sec. 7.03 Attachment 3 -- Submittal Form H - Cost Proposal](#sec-703-attachment-3----submittal-form-h-cost-proposal)
+
+[Sec. 7.04 Attachment 4 -- Standard Agreement Form - Appendix A - F](#sec-704-attachment-4----standard-agreement-form-appendix-a-f)
+
+[Sec. 7.05 Attachment 5 -- Federal Regulations](#sec-705-attachment-5----federal-regulations)
+
+[Sec. 7.06 Attachment 6 -- NDA-Non-Disclosure-Agreement-and-Intent-to-Propose](#sec-706-attachment-6----NDA-non-disclosure-agreement-and-intent-to-propose)
+
+[Sec. 7.07 Attachment 7 -- Quality Assurance Plan(QAP) and Service Level Agreement(SLA)](#sec-707-attachment-7----quality-assurance-plan-qap-and-service-level-agreement-sla)
+
+#  Section 1. Introduction & Instructions
 
 ## Sec. 1.01 Purpose of the RFP
 
@@ -267,7 +281,7 @@ way in a continuing migration of programs from the legacy system.
 More detailed information can be found in SECTION 3 SCOPE OF WORK &
 CONTRACTUAL INFORMATION.
 
-**Budget**
+## Sec. 1.02 Budget
 
 The Alaska Department of Health, Division of Public Assistance,
 estimates a budget of \$20,000,000.00 dollars for completion of this
@@ -277,20 +291,20 @@ considered non-responsive and rejected.
 Approval or continuation of a contract resulting from this RFP is
 contingent upon legislative appropriation or federal funding.
 
-**Deadline for Receipt of Proposals**
+## Sec. 1.03 Deadline for Receipt of Proposals
 
 Proposals must be received no later than **TIME** prevailing Alaska Time
 on **DATE**. Late proposals or amendments will be disqualified and not
 opened or accepted for evaluation.
 
-**Mandatory Requirements**
+## Sec. 1.04 Mandatory Requirements
 
 To be considered responsive for this RFP, an offeror must meet the
 mandatory minimum experience requirements that are provided in
 **Submittal Form F – Mandatory Requirements.** Failure to meet all these
 requirements will result in immediate disqualification.
 
-**Required Review**
+## Sec. 1.05 Required Review
 
 Offerors should carefully review this solicitation for defects and
 questionable or objectionable material. Comments concerning defects and
@@ -301,7 +315,7 @@ of any necessary amendments. It will also help prevent the opening of a
 defective proposal and exposure of offeror's proposals upon which award
 could not be made.
 
-**Questions Prior to Deadline for Receipt of Proposals**
+## Sec. 1.06 Questions Prior to Deadline for Receipt of Proposals
 
 Questions or comments regarding this RFP shall be submitted as issues
 within this RFP’s GitHub repository no later than **4:00 PM** Alaska
@@ -322,7 +336,7 @@ answered over the telephone. Other questions may be more complex and may
 require a written amendment to the RFP. The procurement officer will
 make that decision.
 
-**Return Instructions**
+## Sec. 1.07 Return Instructions
 
 Offerors must submit their proposals via email. The technical proposal
 and cost proposal must be saved as separate documents and emailed to
@@ -343,14 +357,14 @@ It is the offeror’s responsibility to contact the above email address to
 confirm that the proposal has been received. The state is not
 responsible for unreadable, corrupt, or missing attachments.
 
-**Assistance to Offerors with a Disability**
+## Sec. 1.08 Assistance to Offerors with a Disability
 
 Offerors with a disability may receive accommodation regarding the means
 of communicating this RFP or participating in the procurement process.
 For more information, contact the procurement officer no later than ten
 days prior to the deadline for receipt of proposals.
 
-**Amendments to Proposals**
+## Sec. 1.09 Amendments to Proposals
 
 Amendments to or withdrawals of proposals will only be allowed if
 acceptable requests are received prior to the deadline that is set for
@@ -358,7 +372,7 @@ receipt of proposals. No amendments or withdrawals will be accepted
 after the deadline unless they are in response to the state's request in
 accordance with 2 AAC 12.290.
 
-**Amendments to the RFP**
+## Sec. 1.10 Amendments to the RFP
 
 If an amendment is issued before the deadline for receipt of proposals,
 it will be provided to all who were notified of the RFP and to those who
@@ -372,7 +386,7 @@ a new date and time established for new or amended proposals.
 Evaluations may be adjusted as a result of receiving new or amended
 proposals.
 
-**RFP Schedule**
+## Sec. 1.11 RFP Schedule
 
 RFP schedule set out herein represents the state’s best estimate of the
 schedule that will be followed. If a component of this schedule, such as
@@ -398,26 +412,26 @@ for the contract. The state will not be responsible for any work done by
 the contractor, even work done in good faith, if it occurs prior to the
 contract start date set by the state.
 
-**Pre-Proposal Conference**
+## Sec. 1.12 Pre-Proposal Conference
 
 A pre-proposal conference/teleconference will not be held for this
 solicitation. Interested parties may submit questions in writing per
 SEC. 1.06.
 
-**Alternate Proposals**
+## Sec. 1.13 Alternate Proposals
 
 Offerors may only submit one proposal for evaluation. In accordance with
 2 AAC 12.830 alternate proposals (proposals that offer something
 different than what is asked for) will be rejected.
 
-**News Releases**
+## Sec. 1.14 News Releases
 
 News releases related to this RFP will not be made without prior
 approval of the project director.
 
-**BACKGROUND INFORMATION**
+#  Section 2. BACKGROUND INFORMATION
 
-**Background Information**
+## Sec. 2.01 Background Information
 
 Alaska Statute
 [47.05.010](https://www.akleg.gov/basis/statutes.asp#47.05.010)
@@ -555,7 +569,7 @@ focused continuous deployment processes. Specific information regarding
 this procurement can be found in the RFP-ARIES-Milestone 2 GitHub Repo
 (**make sure to add yourself as a watcher to receive updates**).
 
-**Medicaid Program Background Information**
+## Sec. 2.02 Medicaid Program Background Information
 
 The Department of Health (DOH) is the state agency designated to
 administer the Alaska Medicaid program, which includes:
@@ -691,7 +705,7 @@ allow approved hospitals to presumptively determine eligibility for
 certain categories of MAGI Medicaid and Breast & Cervical Cancer
 Medicaid (BCCM / Ladies First).
 
-**Outcomes and Measurements**
+## Sec. 2.03 Outcomes and Measurements
 
 CMS-required outcomes for Medicaid Enterprise Systems (MES) are the
 standard requirements for certification based on federal regulations and
@@ -743,7 +757,7 @@ to the overall implementation success of this project. The outcomes will
 be documented, measured, and reported throughout the life of this
 contract and beyond.
 
-**Current Architecture**
+## Sec. 2.04 Current Architecture
 
 Below is information describing the current mix of systems that are used
 to determine public assistance program eligibility. The overall
@@ -898,9 +912,9 @@ Notices are also associated with particular forms (defined in the
 system) to be included in the mailing. All forms are pre-printed and
 exist in various sizes, colors, layout, etc.
 
-**SCOPE OF WORK & CONTRACT INFORMATION**
+# Section 3. SCOPE OF WORK & CONTRACT INFORMATION
 
-**Scope of Work**
+## Sec. 3.01 Scope of Work
 
 The Alaska Department of Health (DOH), Division of Public Assistance
 (DPA), Eligibility Modernization Project Management Office (EMO), is
@@ -1058,7 +1072,7 @@ tasks:
 - Provide hosting of the data
 - Directly create, update, or delete the data
 
-**Product Management Requirements**
+## Sec. 3.02 Product Management Requirements
 
 **PRODUCT MANAGEMENT**
 
@@ -1182,7 +1196,7 @@ The plan will include:
 - Team members that will be needed from the Department of Health and the
   Division of Public Assistance
 
-**Transition Requirements**
+## Sec. 3.03 Transition Requirements
 
 **TRANSITION ACTIVITIES**
 
@@ -1209,7 +1223,7 @@ Contract be terminated prior to the end of the period of performance,
 the contractor shall transfer all project materials to the procurement
 officer within two weeks of the procurement officer's request.
 
-**Deliverables**
+## Sec. 3.04 Deliverables
 
 The contractor will be required to provide the following deliverables:
 
@@ -1228,7 +1242,6 @@ The contractor will be required to provide the following deliverables:
 | Design Research Plan | At the end of Sprint 2 | Details can be found in [Sec 3.02](#sec-302-project-management-requirements)|
 | Usability Plan | At the end of Sprint 2 | Details can be found in [Sec 3.02](#sec-302-project-management-requirements)|
 
-  
 **DELIVERY INSTRUCTIONS**
 
 Code deliverables shall be submitted via Git PRs to the Azure DevOps
@@ -1272,7 +1285,7 @@ The contractor shall comply with the acceptable quality levels (AQL) as
 described in the attached [quality assurance plan
 (QAP)](https://github.com/AlaskaDHSS/RFP-ARIES-AutomatedRenewals/blob/main/Attachment%2009%20QAP.md).
 
-**HIPAA Security Assessment Requirements**
+## Sec. 3.05 HIPAA Security Assessment Requirements
 
 **Once the contract is executed and prior to beginning any other work
 under the contract,** the contractor shall work with the Department of
@@ -1301,7 +1314,7 @@ to contract immediately.**
 All contractor costs for the security assessment must be included in the
 offeror’s cost proposal.
 
-**Intent to Propose and Non-Disclosure Agreement (NDA)**
+## Sec. 3.06 Intent to Propose and Non-Disclosure Agreement (NDA)
 
 To obtain the NIST CSF Assessment Questions List, the offeror must
 complete and submit an intent to propose and non-disclosure agreement,
@@ -1318,7 +1331,7 @@ perform the services required under this solicitation prior to granting
 access to the file, and any proposal submitted from an offeror that does
 not already have a signed NDA will be considered non-responsive.
 
-**HIPAA and Hitech Information Security Agreement (ISA)**
+## Sec. 3.07 HIPAA and Hitech Information Security Agreement (ISA)
 
 To further ensure the State meets its legal obligations regarding
 Protected Health Information, the contractor shall, at all times, meet
@@ -1331,7 +1344,7 @@ Standard Agreement Form - Appendix F Information Security Agreement
 For DOH IT Security purposes, any conflict between these requirements
 and the BAA, the ISA supersedes the BAA.
 
-**Information Technology (IT) Related Contractual Requirements**
+## Sec. 3.08 Information Technology (IT) Related Contractual Requirements
 
 Other specific DOH IT-related contractual requirements are provided in
 Attachment 2. The offeror must complete this spreadsheet in accordance
@@ -1343,7 +1356,7 @@ Assessment indicated in Sections 3.05 – 3.07 may be completed during the
 negotiation phase based on the offeror’s response to these contractual
 requirements.
 
-**Contract Term and Work Schedule**
+## Sec. 3.09 Contract Term and Work Schedule
 
 The length of the contract will be from the date of award for eighteen
 months, with one additional one-year renewal option to be exercised at
@@ -1359,18 +1372,18 @@ officer will provide written notice to the contractor of the intent to
 cancel an extension at least 30 days before the desired date of
 cancellation.
 
-**Contract Type**
+## Sec. 3.10 Contract Type
 
 This contract is a firm fixed price contract.
 
-**Payment Procedures**
+## Sec. 3.11 Payment Procedures
 
 The state will make payments based on a negotiated payment schedule.
 Each billing must consist of an invoice and progress report. No payment
 will be made until the progress report and invoice has been approved by
 the project director.
 
-**Contract Payment**
+## Sec. 3.12 Contract Payment
 
 No payment will be made until the contract is approved by the
 Commissioner of the Department of Health or the Commissioner's designee.
@@ -1382,7 +1395,7 @@ costs associated with the contract must be stated in U.S. currency.
 Any single contract payment of \$1 million or higher must be accepted by
 the contractor via Electronic Funds Transfer (EFT).
 
-**Location of Work**
+## Sec. 3.13 Location of Work
 
 The location(s) where the work is to be performed, completed, and
 managed is at the discretion of the contractor as long as the location
@@ -1426,7 +1439,7 @@ IT Contractual Requirements Submittal Form.
 Failure to comply with these requirements may cause the state to reject
 the proposal as non-responsive or cancel the contract.
 
-**Third-Party Service Providers**
+## Sec. 3.14 Third-Party Service Providers
 
 In the event that the vendor solution includes commercial or hosted/SaaS
 solution, the contractor and any subcontractors must provide, on an
@@ -1435,7 +1448,7 @@ Engagements (SSAE) **SOC 2** report(s). Failure to provide these reports
 may be treated as a material breach and may be a basis for a finding of
 default.
 
-**Subcontractors**
+## Sec. 3.15 Subcontractors
 
 Subcontractors may be used to perform work under this contract. If an
 offeror intends to use subcontractors, the offeror must complete the
@@ -1463,18 +1476,18 @@ procurement officer.
 Note that if the subcontractor will not be performing work within
 Alaska, they will not be required to hold an Alaska business license.
 
-**Joint Ventures**
+## Sec. 3.16 Joint Ventures
 
 Joint ventures will not be allowed.
 
-**Right to Inspect Place of Business**
+## Sec. 3.17 Right to Inspect Place of Business
 
 At reasonable times, the state may inspect those areas of the
 contractor's place of business that are related to the performance of a
 contract. If the state makes such an inspection, the contractor must
 provide reasonable assistance.
 
-**Right of CMS Audit and Inspection**
+## Sec. 3.18 Right of CMS Audit and Inspection
 
 Throughout the life of the contract, the Department of Health and Human
 Services (HHS), Centers for Medicare and Medicaid Services (CMS) and its
@@ -1485,7 +1498,7 @@ addition to Article 2 of Appendix A of this contract, which provides for
 Inspections and Reports that may be conducted by the Department of
 Health.
 
-**Contract Personnel**
+## Sec. 3.18 Contract Personnel
 
 Any change of the project team members or subcontractors named in the
 proposal must be approved, in advance and in writing, by the project
@@ -1591,7 +1604,7 @@ similar project.
 - Experience researching state Medicaid enrollment documentation and
   regulations
 
-**Inspection & Modification - Reimbursement for Unacceptable Deliverables**
+## Sec. 3.20 Inspection & Modification - Reimbursement for Unacceptable Deliverables
 
 The contractor is responsible for the completion of all work set out in
 the contract. All work is subject to inspection, evaluation, and
@@ -1607,7 +1620,7 @@ the state to terminate the contract. In this event, the state may
 require the contractor to reimburse monies paid (based on the identified
 portion of unacceptable work received) and may seek associated damages.
 
-**Contract Changes - Unanticipated Amendments**
+## Sec. 3.21 Contract Changes - Unanticipated Amendments
 
 During the course of this contract, the contractor may be required to
 perform additional work. That work will be within the general scope of
@@ -1623,7 +1636,7 @@ officer has secured any required state approvals necessary for the
 amendment and issued a written contract amendment, approved by the
 Commissioner of the Department of Health or the Commissioner's designee.
 
-**Nondisclosure and Confidentiality**
+## Sec. 3.22 Nondisclosure and Confidentiality
 
 Contractor agrees that all confidential information shall be used only
 for purposes of providing the deliverables and performing the services
@@ -1684,7 +1697,7 @@ which is disclosed by a party pursuant to subpoena or other legal
 process and which as a result becomes lawfully obtainable by the general
 public.
 
-**Indemnification**
+## Sec. 3.23 Indemnification
 
 The contractor shall indemnify, hold harmless, and defend the
 contracting agency from and against any third-party claim of, or
@@ -1703,7 +1716,7 @@ contracting agency’s selection, administration, monitoring, or
 controlling of the contractor and in approving or accepting the
 contractor’s work.
 
-**Insurance Requirements**
+## Sec. 3.24 Insurance Requirements
 
 Without limiting contractor's indemnification, it is agreed that
 contractor shall purchase at its own expense and maintain in force at
@@ -1722,24 +1735,17 @@ grounds for termination of the contractor's services. All insurance
 policies shall comply with and be issued by insurers licensed to
 transact the business of insurance under AS 21.
 
-**Workers' Compensation Insurance:** The contractor shall provide and
-maintain, for all employees engaged in work under this contract,
-coverage as required by AS 23.30.045, and; where applicable, any other
+**Workers' Compensation Insurance:** The contractor shall provide and maintain, for all employees engaged in work under this contract, coverage as required by AS 23.30.045, and; where applicable, any other
 statutory obligations including but not limited to Federal U.S.L. & H.
 and Jones Act requirements. The policy must waive subrogation against
 the State.
 
-**Commercial General Liability Insurance:** covering all business
-premises and operations used by the Contractor in the performance of
-services under this agreement with minimum coverage limits of \$300,000
+**Commercial General Liability Insurance:** Covering all business premises and operations used by the Contractor in the performance of services under this agreement with minimum coverage limits of \$300,000
 combined single limit per claim.
 
-**Commercial Automobile Liability Insurance:** covering all vehicles
-used by the contractor in the performance of services under this
-agreement with minimum coverage limits of \$300,000 combined single
-limit per claim.
+**Commercial Automobile Liability Insurance:**  Covering all vehicles used by the contractor in the performance of services under this agreement with minimum coverage limits of \$300,000 combined single limit per claim.
 
-**Professional Liability Insurance:** covering all errors, omissions, or
+**Professional Liability Insurance:** Covering all errors, omissions, or
 negligent acts in the performance of professional services under this
 agreement with minimum coverage limits of \$300,000 per claim /annual
 aggregate.
@@ -1752,7 +1758,7 @@ aggregate.
 | \$500,000-\$999,999 | \$1,000,000 per Claim/Annual Aggregate      |
 | \$1,000,000 or over | **\$20,000,000 per Claim/Annual Aggregate** |
 
-**Termination for Default**
+## Sec. 3.15 Termination for Default
 
 If the project director or procurement officer determines that the
 contractor has refused to perform the work or has failed to perform the
@@ -1769,7 +1775,7 @@ This clause does not restrict the state's termination rights under the
 contract provisions of Appendix A or Appendix E, attached in **SECTION
 7. Attachments**.
 
-**Termination and System Operation**
+## Sec. 3.26 Termination and System Operation
 
 If the contract is terminated, within 30 days prior to termination the
 contractor must provide the State all materials necessary for continued
@@ -1792,9 +1798,9 @@ Either of these two options will require mutual good faith discussion
 and finalization of an agreement between the State and contractor prior
 to the contract termination date.
 
-**PROPOSAL FORMAT AND CONTENT**
+# Section 4. PROPOSAL FORMAT AND CONTENT
 
-**RFP Submittal Forms**
+## Sec. 4.01 RFP Submittal Forms
 
 This RFP contains Submittal Forms, which must be completed by the
 offeror and submitted as their proposal. An electronic copy of the forms
@@ -1809,7 +1815,7 @@ the proposal.
 **Any proposal that does not follow these requirements may be deemed
 non-responsive and rejected.**
 
-**Special Formatting Requirements**
+## Sec. 4.02 Special Formatting Requirements
 
 The offeror must ensure that their proposal meets all special formatting
 requirements identified in this section.
@@ -1844,7 +1850,7 @@ or the entire response may be deemed non-responsive and rejected.
 Failure to submit any of the Submittal Forms will result in the proposal
 being deemed non-responsive and rejected.
 
-**Offeror Information and Certifications (Submittal Form A)**
+## Sec. 4.03 Offeror Information and Certifications (Submittal Form A)
 
 The offeror must complete and submit this Submittal Form. The form must
 be signed by an individual authorized to bind the offeror to the
@@ -1871,7 +1877,7 @@ The Submittal Form also requests the following information:
 An offeror's failure to provide this information may cause the proposal
 to be determined to non-responsive and rejected.
 
-**Experience and Qualifications (Submittal Form B)**
+## Sec. 4.04 Experience and Qualifications (Submittal Form B)
 
 Offerors must describe how they fully meet the mandatory requirements of
 listed in Section 1.04 and personnel and criteria identified in Section
@@ -1943,7 +1949,7 @@ SPECIAL NOTE: The offeror shall not disclose their costs in this
 Submittal Form. This Submittal cannot exceed the page limit (as
 described in Section 4.02).
 
-**Technical Understanding and Approach (Submittal Form C)**
+## Sec. 4.05 Technical Understanding and Approach (Submittal Form C)
 
 Succinctly describe level of knowledge, technical expertise and overall
 understanding of the responsibilities as set forth in Section 3.01:
@@ -1957,7 +1963,7 @@ SPECIAL NOTE: The offeror shall not disclose their costs in this
 Submittal Form. This Submittal Form cannot exceed the page limit (as
 described in Section 4.02).
 
-**Approach to User Interface and User Experience (Submittal Form D)**
+## Sec. 4.06 Approach to User Interface and User Experience (Submittal Form D)
 
 Background
 
@@ -2013,7 +2019,7 @@ SPECIAL NOTE: The offeror shall not disclose their costs in this
 Submittal Form. This Submittal Form cannot exceed the page limit (as
 described in Section 4.02).
 
-**Product Management Approach (Submittal Form E)**
+## Sec. 4.07 Product Management Approach (Submittal Form E)
 
 Succinctly describe your approach to the following areas of product
 management:
@@ -2038,16 +2044,16 @@ SPECIAL NOTE: The offeror shall not disclose their costs in this
 Submittal Form. This Submittal Form cannot exceed the page limit (as
 described in Section 4.02).
 
-**Mandatory Requirements (Submittal Form F)**
+## Sec. 4.08 Mandatory Requirements (Submittal Form F)
 
 Offerors must complete and submit this Submittal Form.
 
-**Subcontractors (Submittal Form H)**
+## Sec. 4.09 Subcontractors (Submittal Form G)
 
 If using subcontractors, the offeror must complete and submit this
 Submittal Form.
 
-**Cost Proposal (Submittal Form I)**
+## Sec. 4.10 Cost Proposal (Submittal Form H)
 
 Offerors must complete and submit this Submittal Form. Proposed costs
 must all direct and indirect costs associated with the performance of
@@ -2058,14 +2064,14 @@ person's time devoted to the project, and profit. The costs identified
 on the cost proposal are the total amount of costs to be paid by the
 state. No additional charges shall be allowed.
 
-**DOH IT Contractual Requirements**
+## Sec. 4.11 DOH IT Contractual Requirements
 
 Offerors must complete and submit the DOH IT-related contractual
 requirements provided in Attachment 2
 
-**EVALUATION CRITERIA AND CONTRACTOR SELECTION**
+# Section 5. EVALUATION CRITERIA AND CONTRACTOR SELECTION
 
-**Summary of Evaluation Process**
+## Sec. 5.01 Summary of Evaluation Process
 
 The state will use the following steps to evaluate and prioritize
 proposals:
@@ -2093,7 +2099,7 @@ proposals:
     highest scoring offeror and award a contract if the negotiations are
     successful.
 
-**Evaluation Criteria**
+## Sec. 5.02 Evaluation Criteria
 
 Proposals will be evaluated based on their overall value to state,
 considering both cost and non-cost factors as described below. Note: An
@@ -2126,7 +2132,7 @@ disability, or political affiliation of the offeror.
 
 **TOTAL EVALUATION POINTS AVAILABLE: 1000**
 
-**Scoring Method and Calculation**
+## Sec. 5.03 Scoring Method and Calculation
 
 The PEC will evaluate responses against the questions set out in
 Sections 5.04 through 5.07 and assign a single score for each section.
@@ -2185,7 +2191,7 @@ Maximum Combined PEC Score Possible (40)
 
 Combined PEC Score (40) x 2.5 = Points Awarded (100)
 
-**Experience and Qualifications**
+## Sec. 5.04 Experience and Qualifications
 
 Offerors must provide an organizational chart specific to the personnel
 assigned to accomplish the work called for in this RFP; illustrate the
@@ -2242,7 +2248,7 @@ This Submittal Form must not exceed ten pages (reference RFP section
 4.02); however, resumes and letters of intent are not included in the
 page limitation and may be submitted as attachments.
 
-**Technical Understanding and Approach**
+## Sec. 5.05 Technical Understanding and Approach
 
 The State will evaluate the offeror’s technical approach: level of
 knowledge, technical expertise, and overall understanding of the
@@ -2251,19 +2257,19 @@ similar technology software development and continuous deployment
 methods. Of special note is how well the proposed approach aligns with
 the Department’s Technical Strategy.
 
-**Product Management Approach**
+## Sec. 5.06 Product Management Approach
 
 The State will evaluate the offeror’s approach to project coordination,
 risk management, issue management, user testing, and user research
 coordination.
 
-**Approach to User Interface and User Experience**
+## Sec. 5.07 Approach to User Interface and User Experience
 
 The State will evaluate the offeror’s approach to user interface and
 user experience as they relate to the creation of user stories and
 delivery of working software.
 
-**Contract Cost (Cost Proposal)**
+## Sec. 5.08 Contract Cost (Cost Proposal)
 
 Overall, a minimum of **25**% of the total evaluation points will be
 assigned to cost. The offeror with the lowest total cost will receive
@@ -2307,14 +2313,14 @@ to cost, 400 points.
 *\$40,000 lowest cost x 400 maximum points for cost = 16,000,000 ÷
 \$47,500 cost of Offeror \#3’s proposal* = **336.8**
 
-**Shortlisting**
+## Sec. 5.09 Shortlisting
 
 After proposals have been prioritized, the state may shortlist and
 interview the top three highest ranking offerors. The state may increase
 or decrease the number of offerors in this list based on the
 competitiveness of the proposals and/or from feedback from the PEC.
 
-**Interviews of Critical Team Members**
+## Sec. 5.10 Interviews of Critical Team Members
 
 The state may conduct an individual interview with the primary project
 manager and a group interview with the critical team members identified
@@ -2387,7 +2393,7 @@ interview individually using the 1, 5, 10 scoring method described in
 Section 5.03, and may have a group discussion prior to finalizing
 scores.
 
-**Cost Reasonableness**
+## Sec. 5.11 Cost Reasonableness
 
 Prior to conducting contract negotiations, the procurement officer may
 perform a cost reasonableness assessment of proposals in the following
@@ -2401,7 +2407,7 @@ manner:
     reserves the right to invite the second highest ranked offeror to
     contract negotiations.
 
-**Contract Negotiations**
+## Sec. 5.12 Contract Negotiations
 
 After final evaluation, the procurement officer may negotiate with the
 offeror of the highest or second highest ranked proposal. The intent of
@@ -2437,23 +2443,23 @@ if the offeror:
 The state may terminate negotiations with the offeror initially selected
 and commence negotiations with an alternative offeror.
 
-**Offeror Notification of Selection**
+## Sec. 5.13 Offeror Notification of Selection
 
 After the completion of contract negotiation, the procurement officer
 will issue a written Notice of Intent to Award and send copies of that
 notice to all offerors who submitted proposals. The notice will list the
 names of all offerors and identify the offeror(s) selected for award.
 
-**GENERAL PROCESS AND LEGAL INFORMATION**
+# Section 6. GENERAL PROCESS AND LEGAL INFORMATION
 
-**Informal Debriefing**
+## Sec 6.01 Informal Debriefing
 
 When the contract is completed, an informal debriefing may be performed
 at the discretion of the project director or procurement officer. If
 performed, the scope of the debriefing will be limited to the work
 performed by the contractor.
 
-**Alaska Business License and Other Required Licenses**
+## Sec. 6.02 Alaska Business License and Other Required Licenses
 
 Prior to the award of a contract, an offeror must hold a valid Alaska
 business license. However, in order to receive the Alaska Bidder
@@ -2491,7 +2497,7 @@ Prior the deadline for receipt of proposals, all offerors must hold any
 other necessary applicable professional licenses required by Alaska
 Statute.
 
-**Standard Contract Provisions**
+## Sec. 6.03 Standard Contract Provisions
 
 The contractor will be required to sign the state's Standard Agreement
 Form for Professional Services. This form is attached with the RFP for
@@ -2509,7 +2515,7 @@ information with any change that you are proposing:
 2. Identify why the provision is unjust, unreasonable, etc.
 3. Identify exactly what suggested changes should be made.
 
-**Business Associate Agreement (BAA)**
+## Sec. 6.04 Business Associate Agreement (BAA)
 
 The State has a standard BAA that is included in contracts that involve
 Personal Health Information (PHI) covered under the Health Insurance
@@ -2519,7 +2525,7 @@ BAA. Similar to Section 6.03, any request to change language in this
 document must be set out in the offeror’s proposal in a separate
 document.
 
-**Qualified Offerors**
+## Sec. 6.05 Qualified Offerors
 
 Per 2 AAC 12.875, unless provided for otherwise in the RFP, to qualify
 as an offeror for award of a contract issued under AS 36.30, the offeror
@@ -2535,18 +2541,18 @@ in providing the services or supplies in order to meet these
 requirements, the procurement officer may not accept the offeror as a
 qualified offeror under AS 36.30.
 
-**Proposal as Part of the Contract**
+## Sec. 6.06 Proposal as Part of the Contract
 
 Part of all of this RFP and the successful proposal may be incorporated
 into the contract.
 
-**Additional Terms and Conditions**
+## Sec. 6.07 Additional Terms and Conditions
 
 The state reserves the right to add terms and conditions during contract
 negotiations. These terms and conditions will be within the scope of the
 RFP and will not affect the proposal evaluations.
 
-**Human Trafficking**
+## Sec. 6.08 Human Trafficking
 
 By signature on their proposal, the offeror certifies that the offeror
 is not established and headquartered or incorporated and headquartered
@@ -2560,7 +2566,7 @@ Persons Report can be found at the following website:
 Failure to comply with this requirement will cause the state to reject
 the proposal as non-responsive or cancel the contract.
 
-**Right of Rejection**
+## Sec. 6.09 Right of Rejection
 
 Offerors must comply with all of the terms of the RFP, the State
 Procurement Code (AS 36.30), and all applicable local, state, and
@@ -2589,12 +2595,12 @@ The state reserves the right to refrain from making an award if it
 determines that to be in its best interest. **A proposal from a debarred
 or suspended offeror shall be rejected.**
 
-**State Not Responsible for Preparation Costs**
+## Sec. 6.10 State Not Responsible for Preparation Costs
 
 The state will not pay any cost associated with the preparation,
 submittal, presentation, or evaluation of any proposal.
 
-**Disclosure of Proposal Contents**
+## Sec. 6.11 Disclosure of Proposal Contents
 
 All proposals and other material submitted become the property of the
 State of Alaska and may be returned only at the state's option. AS
@@ -2614,14 +2620,14 @@ confidentiality. Unless the procurement officer agrees in writing to
 hold the requested information confidential, that information will also
 become public after the Notice of Intent to Award is issued.
 
-**Assignment**
+## Sec. 6.12 Assignment
 
 Per 2 AAC 12.480, the contractor may not transfer or assign any portion
 of the contract without prior written approval from the procurement
 officer. Proposals that are conditioned upon the state’s approval of an
 assignment will be rejected as non-responsive.
 
-**Severability**
+## Sec. 6.13 Severability
 
 If any provision of the contract or agreement is declared by a court to
 be illegal or in conflict with any law, the validity of the remaining
@@ -2629,7 +2635,7 @@ terms and provisions will not be affected; and, the rights and
 obligations of the parties will be construed and enforced as if the
 contract did not contain the particular provision held to be invalid.
 
-**Supplemental Terms and Conditions**
+## Sec. 6.14 Supplemental Terms and Conditions
 
 Proposals must comply with Section 6.08 Right of Rejection. However, if
 the state fails to identify or detect supplemental terms or conditions
@@ -2645,11 +2651,11 @@ If the state's rights would be diminished as a result of application of
 a supplemental term or condition included in the proposal, the
 supplemental term or condition will be considered null and void.
 
-**Solicitation Advertising**
+## Sec. 6.15 Solicitation Advertising
 
 Public notice has been provided in accordance with 2 AAC 12.220.
 
-**Site Inspection**
+## Sec. 6.16 Site Inspection
 
 The state may conduct on-site visits to evaluate the offeror's capacity
 to perform the contract. An offeror must agree, at risk of being found
@@ -2658,7 +2664,7 @@ reasonable access to relevant portions of its work sites. Individuals
 designated by the procurement officer at the state’s expense will make
 site inspection.
 
-**Clarification of Offers**
+## Sec. 6.17 Clarification of Offers
 
 In order to determine if a proposal is reasonably susceptible for
 award, communications by the procurement officer or the proposal
@@ -2668,7 +2674,7 @@ proposal. Clarifications may not result in a material or substantive
 change to the proposal. The evaluation by the procurement officer or the
 PEC may be adjusted as a result of a clarification under this section.
 
-**Discussions with Offerors**
+## Sec. 6.18 Discussions with Offerors
 
 The state may conduct discussions with offerors in accordance with AS
 36.30.240 and 2 AAC 12.290. The purpose of these discussions will be to
@@ -2693,7 +2699,7 @@ procurement officer prior to the date set for discussions so that
 reasonable accommodation can be made. Any oral modification of a
 proposal must be reduced to writing by the offeror.
 
-**Federally Imposed Tariffs**
+## Sec. 6.17 Federally Imposed Tariffs
 
 Changes in price (increase or decrease) resulting directly from a new or
 updated federal tariff, excise tax, or duty, imposed after contract
@@ -2733,7 +2739,7 @@ the United States via contract amendment.
   contract price under this clause unless the amount of the adjustment
   exceeds \$250.
 
-**Protest**
+## Sec. 6.18 Protest
 
 AS 36.30.560 provides that an interested party may protest the content
 of the RFP.
@@ -2778,14 +2784,40 @@ decisions of the procurement officer, appeals, and hearings, will be
 conducted in accordance with the State Procurement Code (AS 36.30),
 Article 8 "Legal and Contractual Remedies.”
 
-**ATTACHMENTS**
+# Section 7. ATTACHMENTS
 
-**Attachments:**
+## Sec. 7.01 Attachment 1 -- Submittal Forms (with Appendices)
 
-1. Submittal Forms A – H
-2. DOH IT Contractual Requirements
-3. Submittal Form H - Cost Proposal
-4. Standard Agreement Form - Appendix A - F
-5. Federal Regulations
-6. NDA – Non-Disclosure Agreement and Intent to Propose
-7. Quality Assurance Plan (QAP) and Service Level Agreement (SLA)
+Submittal Forms (with Appendices)can be found in this repository at [Attachment 1 -
+Submittal Forms A - H](XXXXXX)
+
+## Sec. 7.02 Attachment 2 -- DOH IT Contractual Requirements
+
+The DOH IT Contractual Requirements can be found in this repository at [Attachment 2 - DOH IT Contractual Requirements](XXXXXXX)
+
+## Sec. 7.03 Attachment 3 -- Submittal Form H - Cost Proposal
+
+The Cost Proposal Form can be found in this repository at
+[Attachment 3 - Submittal Form H - Cost Propsal](XXXXX)
+
+## Sec. 7.04 Attachment 4 -- Standard Agreement Form (with Appendices)
+
+The Standard Agreement Form (with Appendices) can be found in
+this repository at [Attachment 4 - Standard Agreement Form - Appendix A - F](XXXXX)
+
+## Sec. 7.05 Attachment 5 -- Federal Regulations
+
+The Federal Regulations can be found in this repository at [Attachment
+5 - Federal
+Regulations](XXXXX)
+
+## Sec. 7.06 Attachment 6 -- NDA - Non-Disclosure Agreement and Intent to Propose
+
+The Non-Disclosure Agreement and Intent to Propose can be found in this repository at [Attachment
+6 - NDA-Non-Disclosure Agreement and Intent to Propose](XXXXX)
+
+## Sec. 7.07 Attachment 7 -- Quality Assurance Plan (QAP) and Service Level Agreement (SLA)
+
+The Quality Assurance Plan and Service Level Agreement can be found in this repository at
+[Attachment 7 -
+Quality Assurance Plan (QAP) and Service Level Agreement (SLA)](XXXXX)
