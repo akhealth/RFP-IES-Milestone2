@@ -34,7 +34,7 @@ procurement officer may result in the rejection of your offer.
 
 **TABLE OF CONTENTS**
 
-**Section 1.INTRODUCTION & INSTRUCTIONS**
+### Section 1.INTRODUCTION & INSTRUCTIONS
 
 [Sec. 1.01 Purpose of the RFP](#sec-101-purpose-of-the-rfp)
 
@@ -64,9 +64,9 @@ procurement officer may result in the rejection of your offer.
 
 [Sec. 1.14 News Releases](#sec-114-news-releases)
 
-**Section 2. BACKGROUND INFORMATION**
+### Section 2. BACKGROUND INFORMATION
 
-[Sec. 2.01 background information](#sec-201-background-information)
+[Sec. 2.01 Background Information](#sec-201-background-information)
 
 [Sec. 2.02 Medicaid Program Background Information](#sec-202-medicaid-program-information)
 
@@ -74,7 +74,7 @@ procurement officer may result in the rejection of your offer.
 
 [Sec. 2.04 Current Architecture](#sec-204-current-architecture)
 
-**Section 3. SCOPE OF WORK & CONTRACT INFORMATION**
+### Section 3. SCOPE OF WORK & CONTRACT INFORMATION
 
 [Sec. 3.01 Scope of Work](#sec-301-scope-of-work)
 
@@ -90,7 +90,7 @@ procurement officer may result in the rejection of your offer.
 
 [Sec. 3.07 HIPAA and Hitech Information Security Agreement (ISA)](#sec-307-hipaa-and-hitech-information-security-agreement-isa)
 
-[Sec. 3.08 Information technology (IT) Related Contractual Requirements](#sec-308-information-technology-it-related-contractual-requirements)
+[Sec. 3.08 Information Technology (IT) Related Contractual Requirements](#sec-308-information-technology-it-related-contractual-requirements)
 
 [Sec. 3.09 Contract Term and Work Schedule](#sec-309-contract-term-and-work-schedule)
 
@@ -114,7 +114,7 @@ procurement officer may result in the rejection of your offer.
 
 [Sec. 3.19 Contract Personnel](#sec-319-contract-personnel)
 
-[Sec. 3.20 Inspection and Modification - Reimbursement for Unacceptable Deliverables](#sec-320-inspection-and-modification---reimbursement-for-unacceptable-deliverables)
+[Sec. 3.20 Inspection and Modification - Reimbursement for Unacceptable Deliverables](#sec-320-inspection-and-modification-reimbursement-for-unacceptable-deliverables)
 
 [Sec. 3.21 Contract Changes - Unanticipated Amendments](#sec-321-contract-changes---unanticipated-amendments)
 
@@ -128,7 +128,7 @@ procurement officer may result in the rejection of your offer.
 
 [Sec. 3.26 Termination and System Operation](#sec-326-termination-and-system-operation)
 
-**Section 4. PROPOSAL FORMAT AND CONTENT**
+### Section 4. PROPOSAL FORMAT AND CONTENT
 
 [Sec. 4.01 RFP Submittal Forms](#sec-401-rfp-submittal-forms)
 
@@ -152,7 +152,7 @@ procurement officer may result in the rejection of your offer.
 
 [Sec. 4.11 DOH IT Contractual Requirements](#sec-411-doh-it-contractual-requirements)
 
-**Section 5. EVALUATION CRITERIA AND CONTRACTOR SELECTION**
+### Section 5. EVALUATION CRITERIA AND CONTRACTOR SELECTION
 
 [Sec. 5.01 Summary of Evaluation Process](#sec-501-summary-of-evaluation-process)
 
@@ -180,7 +180,7 @@ procurement officer may result in the rejection of your offer.
 
 [Sec. 5.13 Offeror Notification of Selection](#sec-513-offeror-notification-of-selection)
 
-**Section 6. GENERAL PROCESS AND LEGAL INFORMATION**
+### Section 6. GENERAL PROCESS AND LEGAL INFORMATION
 
 [Sec. 6.01 Informal Debriefing](#sec-601-informal-debriefing)
 
@@ -222,7 +222,7 @@ procurement officer may result in the rejection of your offer.
 
 [Sec. 6.20 Protest](#sec-620-protest)
 
-**Section 7. ATTACHMENTS**
+### Section 7. ATTACHMENTS
 
 **INTRODUCTION & INSTRUCTIONS**
 
