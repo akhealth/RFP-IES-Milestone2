@@ -226,7 +226,7 @@ procurement officer may result in the rejection of your offer.
 
 **INTRODUCTION & INSTRUCTIONS**
 
-**Purpose of the RFP**
+## Sec. 1.01 Purpose of the RFP
 
 The Alaska Department of Health (DOH), Division of Public Assistance
 (DPA), Eligibility Modernization Project Management Office (EMO) is
