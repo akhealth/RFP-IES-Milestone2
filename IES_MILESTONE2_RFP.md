@@ -34,7 +34,7 @@ procurement officer may result in the rejection of your offer.
 
 **TABLE OF CONTENTS**
 
-### Section 1.INTRODUCTION & INSTRUCTIONS
+### Section 1. INTRODUCTION & INSTRUCTIONS
 
 [Sec. 1.01 Purpose of the RFP](#sec-101-purpose-of-the-rfp)
 
