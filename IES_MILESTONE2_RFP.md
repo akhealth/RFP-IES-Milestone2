@@ -236,7 +236,7 @@ procurement officer may result in the rejection of your offer.
 
 [Sec. 7.06 Attachment 6 -- NDA-Non-Disclosure-Agreement-and-Intent-to-Propose](#sec-706-attachment-6----NDA-non-disclosure-agreement-and-intent-to-propose)
 
-[Sec. 7.07 Attachment 7 -- Quality Assurance Plan(QAP) and Service Level Agreement(SLA)](#sec-707-attachment-7----quality-assurance-plan-qap-and-service-level-agreement-sla)
+[Sec. 7.07 Attachment 7 -- Quality Assurance Plan (QAP) and Service Level Agreement (SLA)](#sec-707-attachment-7----quality-assurance-plan-qap-and-service-level-agreement-sla)
 
 #  Section 1. Introduction & Instructions
 
