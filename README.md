@@ -33,21 +33,143 @@ All Questions must be received by **XXXXX** in the form of an issue posted to th
 
 You'll notice that we link to a number of working documents in our RFP and related materials.  Interested vendors should be aware that all of these documents are subject to change because Alaska is continuing to learn more as we continue prototyping and working with various elements of the existing system to build out our DevSecOps capabilities.  In addition to paying close attention to this repository, we encourage interested vendors to "Watch" what's going on in [the DPA Eligibility Modernization repo](https://github.com/akhealth/EIS-Modernization).  We don't anticipate anything that we learn or change in this environment to alter how an interested vendor would staff up their proposed teams.  As discussed throughout the RFP, we are interested in vendors that are open to such changes without requiring a static set of requirements at the time of the RFP.
 
-## Background
+### Background Information
 
-The background for this overall eligibility moderization effort is detailed in the project [README](https://github.com/akhealth/EIS-Modernization/blob/master/README.md) in the DOH eligibility modernization GitHub Repo. (be sure to add yourself as a watcher on the overall eligibility modernization repository to automatically get updates about changes and upcoming procurements) In this acquisition we are looking to extend the recently successful efforts exercising our user centered design practices, modern software development methods and security focused continuous deployment processes. 
+Alaska Statute
+[47.05.010](https://www.akleg.gov/basis/statutes.asp#47.05.010)
+designates Department of Health (DOH), Division of Public Assistance
+(DPA) as having responsibility for determining eligibility and
+administration of Alaska’s public assistance programs. As a part of this
+designation, DPA is charged with determining eligibility for each of the
+programs based on state and federal regulation, governed by Alaska
+Administrative Code, [Title
+7](https://www.akleg.gov/basis/aac.asp#1.05). Our mission is to “promote
+self-sufficiency and provide basic living expenses to Alaskans in need.”
 
-In March 2010, the Affordable Care Act (ACA) was signed into law. The ACA is based on the Patient Protection and Affordable Care Act (Public Law 111-148, as amended) and the Health Care and Education Reconciliation Act (Public Law 111-152). The law as originally enacted focuses on provisions to expand coverage, control health care costs, and improve the health care delivery system. The ACA also included provisions to streamline eligibility, enrollment, and renewal processes, for example, by requiring a single application for Medicaid, CHIP, and subsidized exchange coverage. The ACA changes for Medicaid came into effect January 1, 2014, replacing Alaska's Family Medicaid with MAGI Medicaid.
+This includes the following programs:
 
-The ACA established a new methodology for determining Medicaid income eligibility for most children, pregnant women, parents, and adults. The MAGI-based methodology considers taxable income and tax filing relationships to determine financial eligibility for Medicaid. MAGI replaced the former process for calculating Medicaid eligibility, which was based on the methodologies of the Aid to Families with Dependent Children program that ended in 1996.  Some individuals are exempt from the MAGI-based income counting rules, including those whose eligibility is based on blindness, disability, or age (65 and older).
+- Adult Public Assistance (APA)
+- Alaska Temporary Assistance Program (ATAP)
+- ATAP Work Services
+- Childcare
+- Chronic and Acute Medical Assistance (CAMA)
+- Family Nutrition
+- General Relief Assistance
+- Heating Assistance
+- Interim Assistance
+- Medicaid
+  - Modified Adjusted Gross Income (MAGI)
+  - Denali KidCare (SCHIP)
+  - Aged, Disabled, Blind, and Long-Term Care
+- Permanent Fund Dividend Hold-Harmless
+- Senior Benefits
+- Supplement Nutrition Assistance Program (SNAP) (aka food stamps)
+- SNAP Employment and Training
+- Tribal Assistance for Needy Families (TANF)
+- Women, Infants, and Children Program (WIC)
 
-By allowing people seeking healthcare coverage to complete one application that determined which health and social services programs they or their family were eligible for, the Affordable Care Act made it easier for people to apply for and enroll in health care coverage.
+DPA has federal partners, including the Centers for Medicare & Medicaid
+Services (CMS), Food and Nutrition Services (FNS), and Administration of
+Children and Families (ACF), who we work with to implement regulations
+and program rules.
 
-More information about the State of Alaska Medicaid Program can be found [here](http://dpaweb.hss.state.ak.us/manuals/MAGI2/magi.htm#t=800_introduction_to_medicaid%2F800_introduction_to_medicaid.htm).
+To perform this work, DPA uses several technical systems. These include
+a legacy mainframe system (EIS), as well as a modern Modified Adjusted
+Gross Income (MAGI) Medicaid determination platform, known as Alaska's
+Resource for Integrated Eligibility Services (ARIES).
 
-This work will ensure that DPA is able to comply with the requirements regarding ex-parte renewals in the ACA (42 CFR 435.916).
- 
-_Important note - Questions or feedback about this RFP should be [posted here](https://github.com/AlaskaDHSS/RFP-ARIES-AutomatedRenewals/issues) - and not to the main DOH project repo._
+While EIS has effectively supported program administration and benefit
+delivery for over 40 years, the technology on which it is based (IBM
+mainframe platform, COBOL software development language and ADABAS
+database management system) is becoming increasingly difficult to
+maintain. Many significant changes in Public Assistance programs and
+program administration have occurred since the system was placed into
+production in 1984. Mandatory Federal Medicaid provisions of the ACA,
+Welfare Reform, new program demands, and the continued growth and
+complexity in public assistance programs are creating a shift in
+business needs. The system is currently functioning well beyond the
+capacity for which it was designed and does not provide the flexibility
+needed to implement mandatory federal provisions.
+
+The modern system, called ARIES, is used by over 400 users consisting of
+eligibility technicians, administrative staff, and management personnel
+within DPA, and contains over 200,000 benefit recipients. In addition to
+these users there are multiple contractors and community partners that
+access the system to assist in the public assistance program
+administration. In total the ARIES system is used by over 700 users.
+
+Greater system flexibility and robust reporting capabilities are needed
+to accommodate changes driven by federal and state laws and to ensure
+the long-term ability of DPA to provide efficient, economical, and
+effective administration of its programs. The Division needs to pursue
+implementation of a more advanced software application based on current
+technology and Service Oriented Architecture (SOA) that aligns with the
+Medicaid Information Technology Architecture (MITA) and compliance with
+the CMS Seven Standards and Conditions. This will ensure a successful
+implementation of the mandatory federal Medicaid provisions.
+
+In addition, DPA needs a user-friendly and adaptable system to gain
+efficiencies, reduce system maintenance costs, respond to increasing
+service demands, improve customer service, and better support the
+timeliness and accuracy of eligibility decisions.
+
+DPA is developing a modern, integrated eligibility system that enables
+staff to more efficiently issue correct and timely benefits to Alaskans
+who need help meeting their basic needs. Utilizing agile development
+methods and modular procurements, DPA has the goal of implementing an
+eligibility system that not only meets state and federal standards, but
+is user friendly for clients, eligibility staff, and technical staff.
+
+DPA has moved away from a "big bang" waterfall acquisitions process to a
+more modular approach, emphasizing user centered design, agile product
+development, and DevSecOps practices. We integrate user experience,
+security, and privacy into all our development work. More information
+about the Eligibility Modernization project can be found
+[here](https://github.com/Akhealth/EIS-Modernization/) (**be sure to add
+yourself as a watcher on the overall eligibility modernization
+repository to automatically get updates about changes and upcoming
+procurements**). The goal of this approach is to incrementally improve
+the current situation in a measurable and sustainable way, and
+eventually allow the continued migration of programs away from the
+previous eligibility system and onto something more modern, flexible and
+maintainable.
+
+Offerors should review this repository for information that will be
+critical in constructing a quality proposal.
+
+Of specific interest are:
+
+[Procurement
+strategy](https://github.com/akhealth/EIS-Modernization/blob/master/procurement-strategy.md)
+
+[Modular product design
+strategy](https://github.com/akhealth/EIS-Modernization/blob/master/modular-experience.md)
+and our [Modular Experience and API Framework
+Prototype](https://github.com/akhealth/ProtoModExp)
+
+[How We
+Work](https://github.com/akhealth/EIS-Modernization/blob/master/how-we-work.md)
+
+[EIS Modernization Project Technical
+Strategy](https://github.com/akhealth/EIS-Modernization/blob/master/tech-strategy.md)
+
+This approach to ensuring continuing progress towards the DPA roadmap
+goals is to organize product teams to work on the individual
+procurements and product increments. These teams work together with the
+selected vendor to complete work organized by regular sprints. These
+sprints include activities like a daily or regular standup, a
+retrospective held at the end of each sprint, a sprint review of work
+completed, sprint planning and backlog grooming sessions.
+
+The first product increments were improvements to the worker experience
+in the ARIES System in addition to stabilizing the underlying
+infrastructure (Milestone 1). In this acquisition, Milestone 2
+Increments 1-5, we are looking to move the remaining Medicaid categories
+off the legacy mainframe to a modern system exercising our user centered
+design practices, modern software development methods and security
+focused continuous deployment processes. Specific information regarding
+this procurement can be found in the RFP-ARIES-Milestone 2 GitHub Repo
+(**make sure to add yourself as a watcher to receive updates**).
 
 ### What we're planning to achieve as a result of this acquisition
 - Development of an automated process allowing for renewal of the appropriate MAGI Medicaid clients without eligibility worker intervention
