@@ -183,7 +183,7 @@ this procurement can be found in the RFP-ARIES-Milestone 2 GitHub Repo
 
 ### How to respond
 
-We've made every effort to allow for less burden in what we require from interested vendors.  Although the RFP might seem to be pretty extensive, we're asking for limited [targeted responses](XXXX) and believe we'll learn more about your team's approach and offer as part of your verbal presentation.  As discussed in the RFP, we see this presentation to be free flowing vs. formal so that our technical evaluation team can ask questions based on what they've read or heard from your team.
+We've made every effort to allow for less burden in what we require from interested vendors.  Although the RFP might seem to be pretty extensive, we're asking for limited [targeted responses](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/.github/ISSUE_TEMPLATE/rfp-questions.md) and believe we'll learn more about your team's approach and offer as part of your verbal presentation.  As discussed in the RFP, we see this presentation to be free flowing vs. formal so that our technical evaluation team can ask questions based on what they've read or heard from your team.
 
 ### Budget
 
