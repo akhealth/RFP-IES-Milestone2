@@ -2788,36 +2788,36 @@ Article 8 "Legal and Contractual Remedies.”
 
 ## Sec. 7.01 Attachment 1 -- Submittal Forms (with Appendices)
 
-Submittal Forms (with Appendices)can be found in this repository at [Attachment 1 -
-Submittal Forms A - H](XXXXXX)
+Submittal Forms A - H can be found in this repository at [Attachment 1 -
+Submittal Forms A - H](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2001%20Submittal%20Forms%20A%20-%20H.pdf)
 
 ## Sec. 7.02 Attachment 2 -- DOH IT Contractual Requirements
 
-The DOH IT Contractual Requirements can be found in this repository at [Attachment 2 - DOH IT Contractual Requirements](XXXXXXX)
+The DOH IT Contractual Requirements can be found in this repository at [Attachment 2 - DOH IT Contractual Requirements](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2002%20DOH%20IT%20Contractual%20Requirements.pdf)
 
 ## Sec. 7.03 Attachment 3 -- Submittal Form H - Cost Proposal
 
 The Cost Proposal Form can be found in this repository at
-[Attachment 3 - Submittal Form H - Cost Propsal](XXXXX)
+[Attachment 3 - Submittal Form H - Cost Propsal](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2003%20Submittal%20Form%20I%20Cost%20Proposal.pdf)
 
 ## Sec. 7.04 Attachment 4 -- Standard Agreement Form (with Appendices)
 
 The Standard Agreement Form (with Appendices) can be found in
-this repository at [Attachment 4 - Standard Agreement Form - Appendix A - F](XXXXX)
+this repository at [Attachment 4 - Standard Agreement Form - Appendix A - F](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2004%20Standard%20Agreement%20Form%20Appendix%20A.pdf)
 
 ## Sec. 7.05 Attachment 5 -- Federal Regulations
 
 The Federal Regulations can be found in this repository at [Attachment
 5 - Federal
-Regulations](XXXXX)
+Regulations](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2005%20Federal%20Regulations.pdf)
 
 ## Sec. 7.06 Attachment 6 -- NDA - Non-Disclosure Agreement and Intent to Propose
 
 The Non-Disclosure Agreement and Intent to Propose can be found in this repository at [Attachment
-6 - NDA-Non-Disclosure Agreement and Intent to Propose](XXXXX)
+6 - NDA-Non-Disclosure Agreement and Intent to Propose](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2006%20Non%20Disclosure%20Agreement%20and%20Intent%20to%20Propose.pdf)
 
 ## Sec. 7.07 Attachment 7 -- Quality Assurance Plan (QAP) and Service Level Agreement (SLA)
 
 The Quality Assurance Plan and Service Level Agreement can be found in this repository at
 [Attachment 7 -
-Quality Assurance Plan (QAP) and Service Level Agreement (SLA)](XXXXX)
+Quality Assurance Plan (QAP) and Service Level Agreement (SLA)](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2007%20Quality%20Assuance%20Plan%20(QAP)%20and%20Service%20Level%20Agreement%20(SLA).pdf)
