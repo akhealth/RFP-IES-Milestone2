@@ -167,23 +167,31 @@ infrastructure (Milestone 1). In this acquisition, Milestone 2
 Increments 1-5, we are looking to move the remaining Medicaid categories
 off the legacy mainframe to a modern system exercising our user centered
 design practices, modern software development methods and security
-focused continuous deployment processes. Specific information regarding
-this procurement can be found in the RFP-ARIES-Milestone 2 GitHub Repo
+focused continuous deployment processes. 
 (**make sure to add yourself as a watcher to receive updates**).
 
 ### What we're planning to achieve as a result of this acquisition
-- Development of an automated process allowing for renewal of the appropriate MAGI Medicaid clients without eligibility worker intervention
-- Reduction of the automated notices that are mailed to MAGI Medicaid clients with an upcoming renewal
-- Lowering the overall costs DPA pays for postage services
-- Ensuring that the solution meets all federally mandated and State of Alaska mandated security requirements
-- Ensuring that the solution meets all federally required outcome based certification criteria
-- Ensuring that user centered design principles are followed 
-- Simplifying the experience for MAGI Medicaid recipients to renew their Medicaid benefits
+The Department wants assistance in replacing an aging automated eligibility information system (EIS) with a more efficient system that will more effectively meet the changing needs of the State of Alaska. Other key objectives include the following:
+
+- Develop and deploy an Integrated Eligibility System (IES) or module that facilitates administering the following public assistance programs: Aged Blind and Disabled, Long Term Care, Waiver Medicaid, TEFRA, Additional Medicaid categories (Title IV-E, Residential Psychiatric Treatment, and MAGI-Spousal Support), and Hospital Presumptive Eligibility.
+- Design and develop a new front-end portal, replacing the existing ARIES portal with a modern solution
+- The system must integrate with ARIES, Genesys (call-center), ILINX (document management and e-Form(s) (public facing eligibility application)), Current (workflow management), Alaska Connect - Engage (client portal), IEVS (eligibility verification), etc.
+- Integration is intended to be performed via APIs that interact with the existing Azure integration services. These will need to be developed as a part of this procurement.
+- System or module provides Alaska the flexibility to meet the challenges of the Affordable Care Act (ACA) including additional service integration with the Federal Data Services Hub;
+- Develop and deploy a system or module that meets all current and applicable Federal guidelines, deadlines, and standards to include HIPAA, MITA 3.0, emerging standards and guidelines related to ACA, and compliance with the CMS Seven Standards & Conditions and Streamlined Modular Certification (SMC);
+- Optimize application maintenance costs;
+- Optimize long-term operational costs;
+- Enhance program uniformity;
+- Improve customer service;
+- Allow for greater flexibility;
+- Easy to use, maintain, and configure;
+- Easy to expand system capabilities to support future requirements;
+- Function based on a comprehensive, easily updateable rules engine.
 
 
-### How to respond
+### How to respond or ask questions
 
-We've made every effort to allow for less burden in what we require from interested vendors.  Although the RFP might seem to be pretty extensive, we're asking for limited [targeted responses](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/.github/ISSUE_TEMPLATE/rfp-questions.md) and believe we'll learn more about your team's approach and offer as part of your verbal presentation.  As discussed in the RFP, we see this presentation to be free flowing vs. formal so that our technical evaluation team can ask questions based on what they've read or heard from your team.
+We've made every effort to allow for less burden in what we require from interested vendors.  Although the RFP might seem to be pretty extensive, we're asking for questions that will better enable us to clarify parts of this RFP that might be unclear. please use [the built in GitHub Q/A](https://github.com/akhealth/RFP-IES-Milestone2/issues/new/choose) to ask questions, make suggestions, or provide feedback. We intend to review feedback and make RFP amendments and updates as needed.
 
 ### Budget
 
