@@ -284,8 +284,8 @@ CONTRACTUAL INFORMATION.
 ## Sec. 1.02 Budget
 
 The Alaska Department of Health, Division of Public Assistance,
-estimates a budget of \$20,000,000.00 dollars for completion of this
-project. Proposals priced at more than \$20,000,000.00 will be
+estimates a budget of \$xx,xxx,xxx.oo dollars for completion of this
+project. Proposals priced at more than \$xx,xxx,xxx.oo will be
 considered non-responsive and rejected.
 
 Approval or continuation of a contract resulting from this RFP is
@@ -397,7 +397,7 @@ schedule may be shifted accordingly. All times are Alaska Time.
 |------|------|------|
 | Issue Date / RFP Released               |                     |                        |
 | Deadline to Submit Questions            |                     |                        |
-| Deadline for Receipt of Proposals / Proposal Due Date | Must be at least 60 days |                        |
+| Deadline for Receipt of Proposals / Proposal Due Date |  |                        |
 | Proposal Evaluations Start              |                     |                        |
 | Interviews Complete                     |                     |                        |
 | Notice of Intent to Award               |                     |                        |
