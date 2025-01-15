@@ -194,4 +194,4 @@ We estimate a budget of XXXX dollars for the completion of this project as outli
 This contract term is planned to be XXXXX
 
 ## Contributing
-See [CONTRIBUTING](CONTRIBUTING) for additional information.
+See [CONTRIBUTING](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Contributing) for additional information.
