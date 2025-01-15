@@ -194,4 +194,4 @@ We estimate a budget of XXXX dollars for the completion of this project as outli
 This contract term is planned to be XXXXX
 
 ## Contributing
-See [CONTRIBUTING](CONTRIBUTING.md) for additional information.
+See [CONTRIBUTING](CONTRIBUTING) for additional information.
