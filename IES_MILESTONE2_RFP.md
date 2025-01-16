@@ -68,7 +68,7 @@ procurement officer may result in the rejection of your offer.
 
 [Sec. 2.01 Background Information](#sec-201-background-information)
 
-[Sec. 2.02 Medicaid Program Background Information](#sec-202-medicaid-program-information)
+[Sec. 2.02 Medicaid Program Background Information](#sec-202-medicaid-program-background-information)
 
 [Sec. 2.03 Outcomes and Measurements](#sec-203-outcomes-and-measurements)
 
@@ -84,7 +84,7 @@ procurement officer may result in the rejection of your offer.
 
 [Sec. 3.04 Deliverables](#sec-304-deliverables)
 
-[Sec. 3.05 HIPAA Security Assessment Requirements](#sec-305-hipaa-security-assessment)
+[Sec. 3.05 HIPAA Security Assessment Requirements](#sec-305-hipaa-security-assessment-requirements)
 
 [Sec. 3.06 Intent to Propose and Non-Disclosure Agreement (NDA)](#sec-306-intent-to-propose-and-non-disclosure-agreement-nda)
 
@@ -114,7 +114,7 @@ procurement officer may result in the rejection of your offer.
 
 [Sec. 3.19 Contract Personnel](#sec-319-contract-personnel)
 
-[Sec. 3.20 Inspection and Modification - Reimbursement for Unacceptable Deliverables](#sec-320-inspection-and-modification-reimbursement-for-unacceptable-deliverables)
+[Sec. 3.20 Inspection and Modification - Reimbursement for Unacceptable Deliverables](#sec-320-inspection-and-modification---reimbursement-for-unacceptable-deliverables)
 
 [Sec. 3.21 Contract Changes - Unanticipated Amendments](#sec-321-contract-changes---unanticipated-amendments)
 
@@ -146,7 +146,7 @@ procurement officer may result in the rejection of your offer.
 
 [Sec. 4.08 Mandatory Requirements (Submittal Form F)](#sec-408-mandatory-requirements-submittal-form-f)
 
-[Sec. 4.09 Subcontractors (Submittal Form G)](#sec-409-subcontractors-submittal-form-e)
+[Sec. 4.09 Subcontractors (Submittal Form G)](#sec-409-subcontractors-submittal-form-g)
 
 [Sec. 4.10 Cost Proposal (Submittal Form H)](#sec-410-cost-proposal-submittal-form-h)
 
@@ -194,7 +194,7 @@ procurement officer may result in the rejection of your offer.
 
 [Sec. 6.06 Proposal as Part of the Contract](#sec-606-proposal-as-part-of-the-contract)
 
-[Sec. 6.07 Additional Terms and Conditions](#sec-607-additioal-terms-and-conditions)
+[Sec. 6.07 Additional Terms and Conditions](#sec-607-additional-terms-and-conditions)
 
 [Sec. 6.08 Human Trafficking](#sec-608-human-trafficking)
 
@@ -224,17 +224,17 @@ procurement officer may result in the rejection of your offer.
 
 ### Section 7. ATTACHMENTS
 
-[Sec. 7.01 Attachment 1 -- Submittal Forms A - H](#sec-701-attachment-1----submittal-forms-a-h)
+[Sec. 7.01 Attachment 1 -- Submittal Forms A - H](#sec-701-attachment-1----submittal-forms-a---h)
 
 [Sec. 7.02 Attachment 2 -- DOH IT Contractual Requirements](#sec-702-attachment-2----doh-it-contractual-requirements)
 
-[Sec. 7.03 Attachment 3 -- Submittal Form H - Cost Proposal](#sec-703-attachment-3----submittal-form-h-cost-proposal)
+[Sec. 7.03 Attachment 3 -- Submittal Form I - Cost Proposal](#sec-703-attachment-3----submittal-form-i---cost-proposal)
 
-[Sec. 7.04 Attachment 4 -- Standard Agreement Form - Appendix A - F](#sec-704-attachment-4----standard-agreement-form-appendix-a-f)
+[Sec. 7.04 Attachment 4 -- Standard Agreement Form - Appendix A - F](#sec-704-attachment-4----standard-agreement-form-appendix-a---f)
 
 [Sec. 7.05 Attachment 5 -- Federal Regulations](#sec-705-attachment-5----federal-regulations)
 
-[Sec. 7.06 Attachment 6 -- NDA-Non-Disclosure-Agreement-and-Intent-to-Propose](#sec-706-attachment-6----NDA-non-disclosure-agreement-and-intent-to-propose)
+[Sec. 7.06 Attachment 6 -- Non-Disclosure-Agreement-and-Intent-to-Propose](#sec-706-attachment-6----non-disclosure-agreement-and-intent-to-propose)
 
 [Sec. 7.07 Attachment 7 -- Quality Assurance Plan (QAP) and Service Level Agreement (SLA)](#sec-707-attachment-7----quality-assurance-plan-qap-and-service-level-agreement-sla)
 
@@ -1498,7 +1498,7 @@ addition to Article 2 of Appendix A of this contract, which provides for
 Inspections and Reports that may be conducted by the Department of
 Health.
 
-## Sec. 3.18 Contract Personnel
+## Sec. 3.19 Contract Personnel
 
 Any change of the project team members or subcontractors named in the
 proposal must be approved, in advance and in writing, by the project
@@ -1758,7 +1758,7 @@ aggregate.
 | \$500,000-\$999,999 | \$1,000,000 per Claim/Annual Aggregate      |
 | \$1,000,000 or over | **\$20,000,000 per Claim/Annual Aggregate** |
 
-## Sec. 3.15 Termination for Default
+## Sec. 3.25 Termination for Default
 
 If the project director or procurement officer determines that the
 contractor has refused to perform the work or has failed to perform the
@@ -2699,7 +2699,7 @@ procurement officer prior to the date set for discussions so that
 reasonable accommodation can be made. Any oral modification of a
 proposal must be reduced to writing by the offeror.
 
-## Sec. 6.17 Federally Imposed Tariffs
+## Sec. 6.19 Federally Imposed Tariffs
 
 Changes in price (increase or decrease) resulting directly from a new or
 updated federal tariff, excise tax, or duty, imposed after contract
@@ -2739,7 +2739,7 @@ the United States via contract amendment.
   contract price under this clause unless the amount of the adjustment
   exceeds \$250.
 
-## Sec. 6.18 Protest
+## Sec. 6.20 Protest
 
 AS 36.30.560 provides that an interested party may protest the content
 of the RFP.
@@ -2786,7 +2786,7 @@ Article 8 "Legal and Contractual Remedies.”
 
 # Section 7. ATTACHMENTS
 
-## Sec. 7.01 Attachment 1 -- Submittal Forms (with Appendices)
+## Sec. 7.01 Attachment 1 -- Submittal Forms A - H
 
 Submittal Forms A - H can be found in this repository at [Attachment 1 -
 Submittal Forms A - H](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2001%20Submittal%20Forms%20A%20-%20H.pdf)
@@ -2795,12 +2795,12 @@ Submittal Forms A - H](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/
 
 The DOH IT Contractual Requirements can be found in this repository at [Attachment 2 - DOH IT Contractual Requirements](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2002%20DOH%20IT%20Contractual%20Requirements.pdf)
 
-## Sec. 7.03 Attachment 3 -- Submittal Form H - Cost Proposal
+## Sec. 7.03 Attachment 3 -- Submittal Form I - Cost Proposal
 
 The Cost Proposal Form can be found in this repository at
-[Attachment 3 - Submittal Form H - Cost Propsal](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2003%20Submittal%20Form%20I%20Cost%20Proposal.pdf)
+[Attachment 3 - Submittal Form I - Cost Propsal](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2003%20Submittal%20Form%20I%20Cost%20Proposal.pdf)
 
-## Sec. 7.04 Attachment 4 -- Standard Agreement Form (with Appendices)
+## Sec. 7.04 Attachment 4 -- Standard Agreement Form - Appendix A - F
 
 The Standard Agreement Form (with Appendices) can be found in
 this repository at [Attachment 4 - Standard Agreement Form - Appendix A - F](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2004%20Standard%20Agreement%20Form%20Appendix%20A.pdf)
@@ -2811,7 +2811,7 @@ The Federal Regulations can be found in this repository at [Attachment
 5 - Federal
 Regulations](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2005%20Federal%20Regulations.pdf)
 
-## Sec. 7.06 Attachment 6 -- NDA - Non-Disclosure Agreement and Intent to Propose
+## Sec. 7.06 Attachment 6 -- Non-Disclosure Agreement and Intent to Propose
 
 The Non-Disclosure Agreement and Intent to Propose can be found in this repository at [Attachment
 6 - NDA-Non-Disclosure Agreement and Intent to Propose](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2006%20Non%20Disclosure%20Agreement%20and%20Intent%20to%20Propose.pdf)
