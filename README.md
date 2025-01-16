@@ -52,7 +52,6 @@ This includes the following programs:
 - Alaska Temporary Assistance Program (ATAP)
 - ATAP Work Services
 - Childcare
-- Chronic and Acute Medical Assistance (CAMA)
 - Family Nutrition
 - General Relief Assistance
 - Heating Assistance
