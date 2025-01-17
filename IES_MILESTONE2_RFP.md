@@ -293,7 +293,7 @@ contingent upon legislative appropriation or federal funding.
 
 ## Sec. 1.03 Deadline for Receipt of Proposals
 
-Proposals must be received no later than **TIME** prevailing Alaska Time
+Proposals must be received no later than **TIME** standard Alaska Time
 on **DATE**. Late proposals or amendments will be disqualified and not
 opened or accepted for evaluation.
 
@@ -319,7 +319,7 @@ could not be made.
 
 Questions or comments regarding this RFP shall be submitted as issues
 within this RFP’s GitHub repository no later than **4:00 PM** Alaska
-Prevailing Time on **XXX X, 2025**, to allow the State sufficient time
+Standard Time on **XXX X, 2025**, to allow the State sufficient time
 to respond. All questions and comments will be publicly available.
 Please add yourself as a watcher on the Milestone 2 RFP GitHub
 Repository if your firm would like updates about changes and comments.
@@ -448,8 +448,8 @@ This includes the following programs:
 
 - Adult Public Assistance (APA)
 - Alaska Temporary Assistance Program (ATAP)
-- ATAP Work Services
-- Childcare
+- ATAP Work Services (TANF)
+- Childcare Assistance
 - Chronic and Acute Medical Assistance (CAMA)
 - Family Nutrition
 - General Relief Assistance
@@ -463,7 +463,7 @@ This includes the following programs:
 - Senior Benefits
 - Supplement Nutrition Assistance Program (SNAP) (aka food stamps)
 - SNAP Employment and Training
-- Tribal Assistance for Needy Families (TANF)
+- Tribal TANF
 - Women, Infants, and Children Program (WIC)
 
 DPA has federal partners, including the Centers for Medicare & Medicaid
@@ -1260,7 +1260,7 @@ or reject all deliverables.
 
 Acceptance of services and deliverables will be based on the criteria
 laid out in the [quality assurance
-plan](https://github.com/AlaskaDHSS/RFP-ARIES-AutomatedRenewals/blob/main/Attachment%2009%20QAP.md).
+plan]([https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2007%20Quality%20Assuance%20Plan%20(QAP)%20and%20Service%20Level%20Agreement%20(SLA).pdf]).
 
 **SYSTEM DOCUMENTATION**
 
