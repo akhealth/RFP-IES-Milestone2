@@ -2793,7 +2793,7 @@ Submittal Forms A - H](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/
 
 ## Sec. 7.02 Attachment 2 -- DOH IT Contractual Requirements
 
-The DOH IT Contractual Requirements can be found in this repository at [Attachment 2 - DOH IT Contractual Requirements](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2002%20DOH%20IT%20Contractual%20Requirements.excel-file.xlsx)
+The DOH IT Contractual Requirements can be found in this repository at [Attachment 2 - DOH IT Contractual Requirements](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2002%20DOH%20IT%20Contractual%20Requirements.xlsx)
 
 ## Sec. 7.03 Attachment 3 -- Submittal Form I - Cost Proposal
 
