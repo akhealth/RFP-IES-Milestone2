@@ -1841,9 +1841,8 @@ on one side of a piece of paper).
 | Submittal Form D – Approach to User Interface and User Experience Design | 10 |
 | Submittal Form E – Product Management Approach | 10 |
 | Submittal Form F – Mandatory Requirements | N/A |
-| Submittal Form G – IT Contractual Requirements | N/A |
-| Submittal Form H – Subcontractors | N/A |
-| Submittal Form I – Cost Proposal | N/A |
+| Submittal Form G – Subcontractors | N/A |
+| Submittal Form H – Cost Proposal | N/A |
 
 Any Submittal Form that is being evaluated and does not follow these
 instructions may receive a ‘1’ score for the evaluated Submittal Form,
