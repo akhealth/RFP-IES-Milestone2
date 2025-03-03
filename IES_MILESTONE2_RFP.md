@@ -1,8 +1,8 @@
 ![The Seal of the State of Alaska](media/seal.jpg)
 
-**STATE OF ALASKA** 
+# **STATE OF ALASKA** 
 
-**REQUEST FOR PROPOSALS**
+# **REQUEST FOR PROPOSALS**
 
 **Eligibility Modernization Milestone 2: Increments 1-5**
 
@@ -275,13 +275,13 @@ implement a continuously updated roadmap to complete the remaining work
 to implement a fully integrated modern eligibility system, supporting
 all existing public assistance programs.
 
-The roadmap illustrates milestones to be achieved while using a modular
+The [roadmap](https://app.mural.co/t/dhssalaska0106/m/dhssalaska0106/1576183680860/c1682951c77a41f29cb684cff893ff837f70b084) illustrates milestones to be achieved while using a modular
 approach emphasizing agile product development and DevOps practices,
 incrementally implementing improvements in a measurable and sustainable
 way in a continuing migration of programs from the legacy system.
 
-More detailed information can be found in SECTION 3 SCOPE OF WORK &
-CONTRACTUAL INFORMATION.
+More detailed information can be found in [SECTION 3 SCOPE OF WORK &
+CONTRACTUAL INFORMATION](#sec-301-scope-of-work).
 
 ## Sec. 1.02 Budget
 
@@ -303,7 +303,7 @@ opened or accepted for evaluation.
 
 To be considered responsive for this RFP, an offeror must meet the
 mandatory minimum experience requirements that are provided in
-**Submittal Form F – Mandatory Requirements.** Failure to meet all these
+[Submittal Form F – Mandatory Requirements](#sec-701-attachment-1----submittal-forms-a---h). Failure to meet all these
 requirements will result in immediate disqualification.
 
 ## Sec. 1.05 Required Review
@@ -452,7 +452,6 @@ This includes the following programs:
 - Alaska Temporary Assistance Program (ATAP)
 - ATAP Work Services (TANF)
 - Childcare Assistance
-- Chronic and Acute Medical Assistance (CAMA)
 - Family Nutrition
 - General Relief Assistance
 - Heating Assistance
@@ -553,7 +552,7 @@ Work](https://github.com/akhealth/EIS-Modernization/blob/master/how-we-work.md)
 [EIS Modernization Project Technical
 Strategy](https://github.com/akhealth/EIS-Modernization/blob/master/tech-strategy.md)
 
-This approach to ensuring continuing progress towards the DPA roadmap
+This approach to ensuring continuing progress towards the [DPA roadmap](https://app.mural.co/t/dhssalaska0106/m/dhssalaska0106/1576183680860/c1682951c77a41f29cb684cff893ff837f70b084)
 goals is to organize product teams to work on the individual
 procurements and product increments. These teams work together with the
 selected vendor to complete work organized by regular sprints. These
@@ -585,16 +584,15 @@ benefits.
 
 DPA administers the Medicaid program in accordance with Federal and
 State laws and regulations. The Medicaid program is authorized under
-Title XIX and Title XXI of the Social Security Act and the Code of
-Federal Regulations, Title 42 Part 435 and Title 45 Part 233. Alaska’s
+[Title XIX](https://www.ssa.gov/OP_Home/ssact/title19/1900.htm) and [Title XXI](https://www.ssa.gov/OP_Home/ssact/title21/2100.htm) of the Social Security Act and the Code of
+Federal Regulations, [Title 42 Part 435](https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-C/part-435?toc=1) and [Title 45 Part 233](https://www.ecfr.gov/current/title-45/subtitle-B/chapter-II/part-233?toc=1). Alaska’s
 Medicaid State Plan may be viewed
 [here](https://health.alaska.gov/Commissioner/Pages/MedicaidStatePlan/default.aspx).
 
 Alaska joined the Medicaid program in September 1972. New services and
 eligible groups have been added to the program since that time by the
-Legislature. The Medicaid program in Alaska is authorized under Alaska
-Statutes 47.07.010 - 47.07.900 and the Alaska Administrative Code, Title
-7 Chapter 43 and Chapter 100.
+Legislature. The Medicaid program in Alaska is authorized under [Alaska
+Statutes 47.07.010 - 47.07.900](https://www.akleg.gov/basis/statutes.asp#01.05.006) and the [Alaska Administrative Code, Title 7 Chapter 43 and Chapter 100](https://www.akleg.gov/basis/aac.asp#2.06.020).
 
 Medicaid is jointly financed by the federal government and the state.
 Certain groups of individuals and services are required by federal law,
@@ -694,7 +692,7 @@ pay Medicare costs, but do not offer regular Medicaid coverage:
 Eligibility determinations for APA and LTC related categories are
 currently made in EIS. Milestone 2 Increments 1-5 plans to move these
 categories from the legacy EIS to the modern integrated eligibility
-system. More information may be found
+system. Alaska's Aged, Disabled and Long-Term Care Medicaid Eligibility Manual may be found
 [here](http://dpaweb.hss.state.ak.us/manuals/adltc/adltc.htm#t=title_page.htm).
 
 **Hospital Presumptive Eligibility (HPE)**
@@ -1000,7 +998,7 @@ the existing infrastructure listed in [Section 2.04](#sec-204-current-architectu
 
 The resulting system must also integrate with the components above to
 meet the key objectives, all CMS required outcomes in [Section 2.03](#sec-203-outcomes-and-measurements) and
-comply with the requirements in the attached QAP.
+comply with the requirements in the attached [QAP](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2007%20Quality%20Assuance%20Plan%20(QAP)%20and%20Service%20Level%20Agreement%20(SLA).pdf).
 
 The goal of this project is to:
 - Issue Medicaid program benefits based on program rules in accordance
@@ -1024,13 +1022,13 @@ The goal of this project is to:
     integration services in place, as well as CONNX and EntireX
 - Implement a fully redesigned worker portal – UI/UX staff/researcher
   improve user experience
-- Adhere to the DOH technical Quality Assurance Plan (QAP) and related
-  service level agreements (SLAs)
+- Adhere to the DOH technical [Quality Assurance Plan (QAP) and related
+  service level agreements (SLAs)](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2007%20Quality%20Assuance%20Plan%20(QAP)%20and%20Service%20Level%20Agreement%20(SLA).pdf)
 - Review and incorporate the DOH technical team prototype findings
 - Enhance reporting, data access, and auditability
 - Implement an automated testing framework to verify QAP adherence
 - Comply with all federal and state applicable security and privacy
-  standards (see section 3.05 – 3.08)
+  standards [see section 3.05 – 3.08](#sec-305-hipaa-security-assessment-requirements)
 - Produce documentation in accordance with the standards listed in the
   [Section 3.04 Deliverables](#sec-304-deliverables)
 - Support a workflow driven user experience to determine Medicaid
@@ -1093,7 +1091,7 @@ These include sprint ceremonies:
 
 Our processes also include security throughout the effort, so we
 typically refer to our work as DevSecOps. You can find more information
-about How We Work here.
+about How We Work [here](https://github.com/akhealth/EIS-Modernization/blob/master/how-we-work.md).
 
 A successful contractor team will have experience working with clients
 using modern software development approaches. These approaches must
@@ -1239,9 +1237,9 @@ The contractor will be required to provide the following deliverables:
 | Security Documentation | At the end of every applicable sprint | Information that must be included in division security documentation to satisfy all relevant Federal, State, and Department requirements. Note that this information is required as part of the authorization to operate process. Authorization to operate is a requirement of system production. |
 | Technical Documentation | At the end of every applicable sprint | Any system documentation, either new or updated that results from these activities. This could include developer resources, changes to existing database, business rule documentation, network diagrams, or systems architecture documentation, etc. |
 | Project Management Plan | At the end of Sprint 2 | Streamlined project management plan. Details can be found in [Sec 3.02](#sec-302-project-management-requirements)|
-| Testing Plan | At the end of Sprint 6 | Comprehensive testing plan. Details contained in [Sec 3.02](#sec-302-project-management-requirements)|
-| Design Research Plan | At the end of Sprint 2 | Details can be found in [Sec 3.02](#sec-302-project-management-requirements)|
-| Usability Plan | At the end of Sprint 2 | Details can be found in [Sec 3.02](#sec-302-project-management-requirements)|
+| Testing Plan | At the end of Sprint 6 | Comprehensive testing plan. Details contained in [Sec. 3.02 Product Management Requirements](#sec-302-product-management-requirements)|
+| Design Research Plan | At the end of Sprint 2 | Details can be found in [Sec. 3.02 Product Management Requirements](#sec-302-product-management-requirements)|
+| Usability Plan | At the end of Sprint 2 | Details can be found in [Sec. 3.02 Product Management Requirements](#sec-302-product-management-requirements)|
 
 **DELIVERY INSTRUCTIONS**
 
@@ -1284,7 +1282,7 @@ appropriate.
 
 The contractor shall comply with the acceptable quality levels (AQL) as
 described in the attached [quality assurance plan
-(QAP)](https://github.com/AlaskaDHSS/RFP-ARIES-AutomatedRenewals/blob/main/Attachment%2009%20QAP.md).
+(QAP)](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2007%20Quality%20Assuance%20Plan%20(QAP)%20and%20Service%20Level%20Agreement%20(SLA).pdf).
 
 ## Sec. 3.05 HIPAA Security Assessment Requirements
 
@@ -1338,9 +1336,9 @@ To further ensure the State meets its legal obligations regarding
 Protected Health Information, the contractor shall, at all times, meet
 all requirements set forth in the HIPAA and Health Information
 Technology for Economic and Clinical Health Act (HITECH) Information
-Security Agreement (ISA), attached with this RFP as Attachment 4
+Security Agreement (ISA), attached with this RFP as [Attachment 4
 Standard Agreement Form - Appendix F Information Security Agreement
-(ISA). This ISA will be included in the fully executed contract.
+(ISA)](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2004%20Standard%20Agreement%20Form%20-%20Appendix%20A%20-%20F.pdf). This ISA will be included in the fully executed contract.
 
 For DOH IT Security purposes, any conflict between these requirements
 and the BAA, the ISA supersedes the BAA.
@@ -1402,7 +1400,7 @@ The location(s) where the work is to be performed, completed, and
 managed is at the discretion of the contractor as long as the location
 complies with the requirements listed below.
 
-The state will provide with a limited amount of office space (1-2
+The state will provide a limited amount of office space (1-2
 desk spaces, co-located with DOH staff during contract specific travel).
 The contractor must provide any additional space that is needed.
 
@@ -1459,9 +1457,9 @@ An offeror's failure to provide this information with their proposal may
 cause the state to consider their proposal non-responsive and reject it.
 
 Subcontractor experience shall not be considered in determining whether
-the offeror meets the requirements set forth in Submittal Form F –
-Mandatory Requirements. **Offerors must be specific in Submittal Form F
-as to which subcontractor(s) defined in Submittal Form G –
+the offeror meets the requirements set forth in [Submittal Form F –
+Mandatory Requirements](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2004%20Standard%20Agreement%20Form%20-%20Appendix%20A%20-%20F.pdf). **Offerors must be specific in Submittal Form F
+as to which subcontractor(s) defined in [Submittal Form G](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2004%20Standard%20Agreement%20Form%20-%20Appendix%20A%20-%20F.pdf) –
 Subcontractors they are citing to meet the specific requirement listed
 in Submittal Form F.**
 
@@ -1605,7 +1603,7 @@ similar project.
 - Experience researching state Medicaid enrollment documentation and
   regulations
 
-## Sec. 3.20 Inspection & Modification - Reimbursement for Unacceptable Deliverables
+## Sec. 3.20 Inspection and Modification - Reimbursement for Unacceptable Deliverables
 
 The contractor is responsible for the completion of all work set out in
 the contract. All work is subject to inspection, evaluation, and
@@ -1805,7 +1803,7 @@ to the contract termination date.
 
 This RFP contains Submittal Forms, which must be completed by the
 offeror and submitted as their proposal. An electronic copy of the forms
-is posted along with this RFP, [see SEC. 7.01 – DOH RFP Submittal Forms](#sec-701-attachment-1----submittal-forms-a---h).
+is posted along with this RFP, [see SEC. 7.01 – DOH RFP Submittal Forms](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2001%20Submittal%20Forms%20A-H.docx).
 Offerors shall not re-create these forms, create their own forms, or
 edit the format structure of the forms unless permitted to do so.
 
@@ -2256,7 +2254,7 @@ knowledge, technical expertise, and overall understanding of the
 requirements. The State will also evaluate the offeror’s skills with
 similar technology software development and continuous deployment
 methods. Of special note is how well the proposed approach aligns with
-the Department’s Technical Strategy.
+the [Department’s Technical Strategy](https://github.com/akhealth/EIS-Modernization/blob/master/tech-strategy.md).
 
 ## Sec. 5.06 Product Management Approach
 
@@ -2804,7 +2802,7 @@ The Cost Proposal Form can be found in this repository at
 ## Sec. 7.04 Attachment 4 -- Standard Agreement Form - Appendix A - F
 
 The Standard Agreement Form (with Appendices) can be found in
-this repository at [Attachment 4 - Standard Agreement Form - Appendix A - F](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2004%20Standard%20Agreement%20Form%20Appendix%20A.pdf)
+this repository at [Attachment 4 - Standard Agreement Form - Appendix A - F](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2004%20Standard%20Agreement%20Form%20-%20Appendix%20A%20-%20F.pdf)
 
 ## Sec. 7.05 Attachment 5 -- Federal Regulations
 
