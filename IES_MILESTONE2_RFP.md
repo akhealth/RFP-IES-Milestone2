@@ -2790,7 +2790,7 @@ Article 8 "Legal and Contractual Remedies.”
 ## Sec. 7.01 Attachment 1 -- Submittal Forms A - H
 
 Submittal Forms A - H can be found in this repository at [Attachment 1 -
-Submittal Forms A - H](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2001%20Submittal%20Forms%20A%20-%20H.pdf)
+Submittal Forms A - H](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2001%20Submittal%20Forms%20A-H.docx)
 
 ## Sec. 7.02 Attachment 2 -- DOH IT Contractual Requirements
 
@@ -2799,7 +2799,7 @@ The DOH IT Contractual Requirements can be found in this repository at [Attachme
 ## Sec. 7.03 Attachment 3 -- Submittal Form I - Cost Proposal
 
 The Cost Proposal Form can be found in this repository at
-[Attachment 3 - Submittal Form I - Cost Propsal](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2003%20Submittal%20Form%20I%20Cost%20Proposal.pdf)
+[Attachment 3 - Submittal Form I - Cost Propsal](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2003%20Submittal%20Form%20I%20Cost%20Proposal.xlsx)
 
 ## Sec. 7.04 Attachment 4 -- Standard Agreement Form - Appendix A - F
 
