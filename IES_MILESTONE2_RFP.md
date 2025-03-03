@@ -1,6 +1,8 @@
 ![The Seal of the State of Alaska](media/seal.jpg)
 
-**STATE OF ALASKA REQUEST FOR PROPOSALS**
+**STATE OF ALASKA** 
+
+**REQUEST FOR PROPOSALS**
 
 **Eligibility Modernization Milestone 2: Increments 1-5**
 
@@ -26,8 +28,8 @@ jacqueline.lea@alaska.gov<br>
 
 **OFFERORS ARE NOT REQUIRED TO RETURN THIS FORM.**
 
-**Important Notice**: If you received this solicitation from the
-State of Alaska’s “online public notice” web site, you must register
+**<u>Important Notice</u>**: If you received this solicitation from the
+State of Alaska’s “Online Public Notice” web site, you must register
 with the procurement officer listed in this document to receive
 notification of subsequent amendments. Failure to contact the
 procurement officer may result in the rejection of your offer.
@@ -284,8 +286,8 @@ CONTRACTUAL INFORMATION.
 ## Sec. 1.02 Budget
 
 The Alaska Department of Health, Division of Public Assistance,
-estimates a budget of \$xx,xxx,xxx.oo dollars for completion of this
-project. Proposals priced at more than \$xx,xxx,xxx.oo will be
+estimates a budget of \$20,000,000.00 dollars for completion of this
+project. Proposals priced at more than \$20,000,000.00 will be
 considered non-responsive and rejected.
 
 Approval or continuation of a contract resulting from this RFP is
@@ -318,11 +320,11 @@ could not be made.
 ## Sec. 1.06 Questions Prior to Deadline for Receipt of Proposals
 
 Questions or comments regarding this RFP shall be submitted as issues
-within this RFP’s GitHub repository no later than **4:00 PM** Alaska
+within this [RFP’s GitHub repository](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/.github/ISSUE_TEMPLATE/rfp-questions.md) no later than **4:00 PM** Alaska
 Standard Time on **XXX X, 2025**, to allow the State sufficient time
 to respond. All questions and comments will be publicly available.
-Please add yourself as a watcher on the Milestone 2 RFP GitHub
-Repository if your firm would like updates about changes and comments.
+Please add yourself as a watcher on the [Milestone 2 RFP GitHub
+Repository](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/IES_MILESTONE2_RFP.md) if your firm would like updates about changes and comments.
 Questions or comments received after the required deadline may not be
 answered.
 
@@ -566,7 +568,7 @@ Increments 1-5, we are looking to move the remaining Medicaid categories
 off the legacy mainframe to a modern system exercising our user centered
 design practices, modern software development methods and security
 focused continuous deployment processes. Specific information regarding
-this procurement can be found in the RFP-ARIES-Milestone 2 GitHub Repo
+this procurement can be found in the [RFP-IES-Milestone 2 GitHub Repo](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/IES_MILESTONE2_RFP.md)
 (**make sure to add yourself as a watcher to receive updates**).
 
 ## Sec. 2.02 Medicaid Program Background Information
@@ -576,7 +578,6 @@ administer the Alaska Medicaid program, which includes:
 
 - Medicaid
 - Denali KidCare (DKC)
-- Chronic and Acute Medical Assistance
 
 The Division of Public Assistance (DPA) is responsible for determining
 the eligibility of individuals and families in need of Medicaid
@@ -646,8 +647,7 @@ application that determined which health and social services programs
 they or their family were eligible for, the Affordable Care Act made it
 easier for people to apply for and enroll in health care coverage.
 
-Eligibility determinations for MAGI Medicaid are made in ARIES. More
-information may be found
+Eligibility determinations for MAGI Medicaid are made in ARIES. Alaska's MAGI Medicaid Eligibility Manual may be found
 [here](http://dpaweb.hss.state.ak.us/manuals/MAGI2/magi.htm#t=800_introduction_to_medicaid%2F800_introduction_to_medicaid.htm).
 
 **Denali KidCare (DKC) aka State Children’s Health Insurance Program
@@ -764,7 +764,7 @@ to determine public assistance program eligibility. The overall
 modernization strategy for the public assistance system is contained in
 the DOH [GitHub Repository](https://github.com/akhealth/). The following
 is for reference only and connects to the scope of work described in
-Section 3 SCOPE OF WORK & CONTRACTUAL INFORMATION.
+[Section 3 SCOPE OF WORK & CONTRACTUAL INFORMATION](#sec-301-scope-of-work).
 
 **Alaska's Resource for Integrated Eligibility Services (ARIES)**
 
@@ -973,7 +973,8 @@ The successful offeror will build a new worker facing data entry
 platform (portal) for all Medicaid categories to allow State of Alaska
 DPA eligibility staff to enter information required, and to receive
 eligibility determination information. This system will integrate with
-the existing infrastructure listed in Section 2.04 including:
+the existing infrastructure listed in [Section 2.04](#sec-204-current-architecture)
+ including:
 
 - Existing IBM components
   - Base WAS – WebSphere Application Server
@@ -998,7 +999,7 @@ the existing infrastructure listed in Section 2.04 including:
   - Microsoft SQL and Microsoft SQL Server Reporting Services – SSRS
 
 The resulting system must also integrate with the components above to
-meet the key objectives, all CMS required outcomes in Section 2.03 and
+meet the key objectives, all CMS required outcomes in [Section 2.03](#sec-203-outcomes-and-measurements) and
 comply with the requirements in the attached QAP.
 
 The goal of this project is to:
@@ -1031,7 +1032,7 @@ The goal of this project is to:
 - Comply with all federal and state applicable security and privacy
   standards (see section 3.05 – 3.08)
 - Produce documentation in accordance with the standards listed in the
-  Section 3.04 Deliverables
+  [Section 3.04 Deliverables](#sec-304-deliverables)
 - Support a workflow driven user experience to determine Medicaid
   eligibility
 - Support automated application registration
@@ -1260,7 +1261,7 @@ or reject all deliverables.
 
 Acceptance of services and deliverables will be based on the criteria
 laid out in the [quality assurance
-plan]([https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2007%20Quality%20Assuance%20Plan%20(QAP)%20and%20Service%20Level%20Agreement%20(SLA).pdf]).
+plan](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2007%20Quality%20Assuance%20Plan%20(QAP)%20and%20Service%20Level%20Agreement%20(SLA).pdf).
 
 **SYSTEM DOCUMENTATION**
 
@@ -1401,7 +1402,7 @@ The location(s) where the work is to be performed, completed, and
 managed is at the discretion of the contractor as long as the location
 complies with the requirements listed below.
 
-The state will be provided with a limited amount of office space (1-2
+The state will provide with a limited amount of office space (1-2
 desk spaces, co-located with DOH staff during contract specific travel).
 The contractor must provide any additional space that is needed.
 
@@ -1452,7 +1453,7 @@ default.
 
 Subcontractors may be used to perform work under this contract. If an
 offeror intends to use subcontractors, the offeror must complete the
-Submittal Form identified in Section 4.02 Submittal Form H of this RFP.
+Submittal Form identified in [Section 4.02 Submittal Form H](#sec-402-special-formatting-requirements) of this RFP.
 
 An offeror's failure to provide this information with their proposal may
 cause the state to consider their proposal non-responsive and reject it.
@@ -1772,8 +1773,8 @@ contract under Administrative Order 352 if the contractor supports or
 participates in a boycott of the State of Israel.
 
 This clause does not restrict the state's termination rights under the
-contract provisions of Appendix A or Appendix E, attached in **SECTION
-7. Attachments**.
+contract provisions of Appendix A or Appendix E, attached in [SECTION
+7. Attachments](#sec-701-attachment-1----submittal-forms-a---h).
 
 ## Sec. 3.26 Termination and System Operation
 
@@ -1804,7 +1805,7 @@ to the contract termination date.
 
 This RFP contains Submittal Forms, which must be completed by the
 offeror and submitted as their proposal. An electronic copy of the forms
-is posted along with this RFP (see SEC. 7.01 – DOH RFP Submittal Forms).
+is posted along with this RFP, [see SEC. 7.01 – DOH RFP Submittal Forms](#sec-701-attachment-1----submittal-forms-a---h).
 Offerors shall not re-create these forms, create their own forms, or
 edit the format structure of the forms unless permitted to do so.
 
@@ -1880,8 +1881,8 @@ to be determined to non-responsive and rejected.
 ## Sec. 4.04 Experience and Qualifications (Submittal Form B)
 
 Offerors must describe how they fully meet the mandatory requirements of
-listed in Section 1.04 and personnel and criteria identified in Section
-3.16.
+listed in [Section 1.04](#sec-104-mandatory-requirements) and personnel and criteria identified in [Section
+3.16](#sec-316-joint-ventures).
 
 Offerors must also provide a narrative description of the organization
 of the project team and a personnel roster that identifies lines of
@@ -1902,8 +1903,8 @@ part of your page limitation.
 
 Provide a staffing approach that describes your understanding of the
 responsibilities and details the number or personnel by skill
-level/labor category needed to satisfy Section 3.01: Scope of Work as
-well as Section 3.16 Contract Personnel.
+level/labor category needed to satisfy [Section 3.01: Scope of Work](#sec-301-scope-of-work) as
+well as [Section 3.19 Contract Personnel](#sec-319-contract-personnel).
 
 At a minimum, in this section, provide:
 
@@ -1913,7 +1914,7 @@ of the scope and project desired outcomes;
 personnel, and hours; and
 - A list of Key Personnel by name, title, contact information, proposed
 duties and roles, and resumes for each proposed Key Personnel in
-accordance with Section 3.16: Contract Personnel. Resumes should include
+accordance with [Section 3.19: Contract Personnel](#sec-319-contract-personnel). Resumes should include
 a description of the experience and capability for all Key Personnel
 proposed for the offeror’s project team. Resumes should also address the
 individual’s technical background, education, work experience, and
@@ -1946,22 +1947,22 @@ Offerors must provide reference names and phone numbers for similar
 projects the offeror’s firm has completed.
 
 SPECIAL NOTE: The offeror shall not disclose their costs in this
-Submittal Form. This Submittal cannot exceed the page limit (as
-described in Section 4.02).
+Submittal Form. This Submittal cannot exceed the page limit, as
+described in [Section 4.02](#sec-402-special-formatting-requirements).
 
 ## Sec. 4.05 Technical Understanding and Approach (Submittal Form C)
 
 Succinctly describe level of knowledge, technical expertise and overall
-understanding of the responsibilities as set forth in Section 3.01:
-Scope of Work and Section 3.05 Deliverables. This is also an opportunity
+understanding of the responsibilities as set forth in [Section 3.01:
+Scope of Work](#sec-301-scope-of-work) and [Section 3.04 Deliverables](#sec-304-deliverables). This is also an opportunity
 to discuss, either in the written proposal or during the verbal
 presentation, any technical risks or opportunities. This section should
 include your proposed plans to adhere to the technical requirements and
-standards listed out in Attachment 2, attached in **SECTION 7. Attachments**.
+standards listed out in Attachment 2, attached in [SECTION 7. Attachments](#sec-701-attachment-1----submittal-forms-a---h).
 
 SPECIAL NOTE: The offeror shall not disclose their costs in this
-Submittal Form. This Submittal Form cannot exceed the page limit (as
-described in Section 4.02).
+Submittal Form. This Submittal Form cannot exceed the page limit, as
+described in [Section 4.02](#sec-402-special-formatting-requirements).
 
 ## Sec. 4.06 Approach to User Interface and User Experience (Submittal Form D)
 
@@ -2087,9 +2088,9 @@ proposals:
     prior to finalizing their scores.
 6. The evaluators will submit their final individual scores to the
     procurement officer, who will then compile the scores and calculate
-    awarded points as set out in Section 5.03.
+    awarded points as set out in [Section 5.03](#sec-503-scoring-method-and-calculation).
 7. The procurement officer will calculate scores for cost proposals as
-    set out in Section 5.08 and add those scores to the awarded points
+    set out in [Section 5.08](#sec-508-contract-cost-cost-proposal) and add those scores to the awarded points
     along with factoring in any Alaska preferences.
 8. The procurement officer may prioritize the proposals, and the state
     may conduct interviews with the top-rated offerors.
