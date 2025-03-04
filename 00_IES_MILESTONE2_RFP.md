@@ -148,11 +148,11 @@ procurement officer may result in the rejection of your offer.
 
 [Sec. 4.08 Mandatory Requirements (Submittal Form F)](#sec-408-mandatory-requirements-submittal-form-f)
 
-[Sec. 4.09 Subcontractors (Submittal Form G)](#sec-409-subcontractors-submittal-form-g)
+[Sec. 4.09 IT Contractual Requirements (Submittal Form G)](#sec-409-it-contractual-requirements-submittal-form-g)
 
-[Sec. 4.10 Cost Proposal (Submittal Form H)](#sec-410-cost-proposal-submittal-form-h)
+[Sec. 4.10 Subcontractors (Submittal Form H)](#sec-410-subcontractors-submittal-form-h)
 
-[Sec. 4.11 DOH IT Contractual Requirements](#sec-411-doh-it-contractual-requirements)
+[Sec. 4.11 Cost Proposal (Submittal Form I)](#sec-411-cost-proposal-submittal-form-i)
 
 ### Section 5. EVALUATION CRITERIA AND CONTRACTOR SELECTION
 
@@ -232,7 +232,7 @@ procurement officer may result in the rejection of your offer.
 
 [Sec. 7.03 Attachment 3 -- Submittal Form I - Cost Proposal](#sec-703-attachment-3----submittal-form-i---cost-proposal)
 
-[Sec. 7.04 Attachment 4 -- Standard Agreement Form - Appendix A - F](#sec-704-attachment-4----standard-agreement-form-appendix-a---f)
+[Sec. 7.04 Attachment 4 -- Standard Agreement Form](#sec-704-attachment-4----standard-agreement-form)
 
 [Sec. 7.05 Attachment 5 -- Federal Regulations](#sec-705-attachment-5----federal-regulations)
 
@@ -320,7 +320,7 @@ could not be made.
 ## Sec. 1.06 Questions Prior to Deadline for Receipt of Proposals
 
 Questions or comments regarding this RFP shall be submitted as issues
-within this [RFP’s GitHub repository](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/.github/ISSUE_TEMPLATE/rfp-questions.md) no later than **4:00 PM** Alaska
+within this [RFP’s GitHub repository](https://github.com/akhealth/RFP-IES-Milestone2/issues) no later than **4:00 PM** Alaska
 Standard Time on **XXX X, 2025**, to allow the State sufficient time
 to respond. All questions and comments will be publicly available.
 Please add yourself as a watcher on the [Milestone 2 RFP GitHub
@@ -2798,7 +2798,7 @@ The DOH IT Contractual Requirements can be found in this repository at [Attachme
 The Cost Proposal Form can be found in this repository at
 [Attachment 3 - Submittal Form I - Cost Propsal](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2003%20Submittal%20Form%20I%20Cost%20Proposal.xlsx)
 
-## Sec. 7.04 Attachment 4 -- Standard Agreement Form - Appendix A - F
+## Sec. 7.04 Attachment 4 -- Standard Agreement Form
 
 The Standard Agreement Form (with Appendices) can be found in
 this repository at [Attachment 4 - Standard Agreement Form - Appendix A - F](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2004%20Standard%20Agreement%20Form%20-%20Appendix%20A%20-%20F.pdf)
@@ -2806,8 +2806,7 @@ this repository at [Attachment 4 - Standard Agreement Form - Appendix A - F](htt
 ## Sec. 7.05 Attachment 5 -- Federal Regulations
 
 The Federal Regulations can be found in this repository at [Attachment
-5 - Federal
-Regulations](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2005%20Federal%20Regulations.pdf)
+5 - Federal Regulations](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2005%20Federal%20Regulations.pdf)
 
 ## Sec. 7.06 Attachment 6 -- Non-Disclosure Agreement and Intent to Propose
 
