@@ -1839,8 +1839,8 @@ on one side of a piece of paper).
 | Submittal Form D – Approach to User Interface and User Experience Design | 10 |
 | Submittal Form E – Product Management Approach | 10 |
 | Submittal Form F – Mandatory Requirements | N/A |
-| Submittal Form G – Subcontractors | N/A |
-| Submittal Form H – Cost Proposal | N/A |
+| Submittal Form G – IT Contractual Requirements | N/A |
+| Submittal Form H – Subcontractors | N/A |
 
 Any Submittal Form that is being evaluated and does not follow these
 instructions may receive a ‘1’ score for the evaluated Submittal Form,
@@ -2046,12 +2046,16 @@ described in Section 4.02).
 
 Offerors must complete and submit this Submittal Form.
 
-## Sec. 4.09 Subcontractors (Submittal Form G)
+## Sec. 4.09 IT Contractual Requirements (Submittal Form G)
+
+Please complete Attachment 2 – DOH Contractual Requirements as provided in a separate attachment.
+
+## Sec. 4.10 Subcontractors (Submittal Form H)
 
 If using subcontractors, the offeror must complete and submit this
 Submittal Form.
 
-## Sec. 4.10 Cost Proposal (Submittal Form H)
+## Sec. 4.11 Cost Proposal (Submittal Form I)
 
 Offerors must complete and submit this Submittal Form. Proposed costs
 must all direct and indirect costs associated with the performance of
@@ -2062,7 +2066,7 @@ person's time devoted to the project, and profit. The costs identified
 on the cost proposal are the total amount of costs to be paid by the
 state. No additional charges shall be allowed.
 
-## Sec. 4.11 DOH IT Contractual Requirements
+## Sec. 4.12 DOH IT Contractual Requirements
 
 Offerors must complete and submit the DOH IT-related contractual
 requirements provided in Attachment 2
