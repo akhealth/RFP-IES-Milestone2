@@ -2048,7 +2048,7 @@ Offerors must complete and submit this Submittal Form.
 
 ## Sec. 4.09 IT Contractual Requirements (Submittal Form G)
 
-Please complete Attachment 2 – DOH Contractual Requirements as provided in a separate attachment.
+Please complete Attachment 2 – DOH IT Contractual Requirements as provided.
 
 ## Sec. 4.10 Subcontractors (Submittal Form H)
 
@@ -2066,10 +2066,6 @@ person's time devoted to the project, and profit. The costs identified
 on the cost proposal are the total amount of costs to be paid by the
 state. No additional charges shall be allowed.
 
-## Sec. 4.12 DOH IT Contractual Requirements
-
-Offerors must complete and submit the DOH IT-related contractual
-requirements provided in Attachment 2
 
 # Section 5. EVALUATION CRITERIA AND CONTRACTOR SELECTION
 
