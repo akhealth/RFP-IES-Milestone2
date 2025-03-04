@@ -1534,8 +1534,8 @@ Current Eligibility System Technology: IBM WebSphere, IBM Operational
 Decision Manager, IBM Security Access Manager, Mule ESB, OpenText
 Exstream, Quartz Scheduler, built on JAVA frameworks
 
-The DOH vision on overall architecture of the application can be found
-here.
+The DOH vision on overall architecture of the application are shown in 
+[Figure 1](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/media/architecture%20.jpg) and [Figure 2](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/media/architecture1.jpg).
 
 Microsoft Technology: Azure cloud platform, .NET Core Language, SQL
 Server
