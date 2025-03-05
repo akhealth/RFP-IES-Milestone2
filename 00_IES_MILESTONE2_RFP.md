@@ -324,7 +324,7 @@ within this [RFP’s GitHub repository](https://github.com/akhealth/RFP-IES-Mile
 Standard Time on **XXX X, 2025**, to allow the State sufficient time
 to respond. All questions and comments will be publicly available.
 Please add yourself as a watcher on the [Milestone 2 RFP GitHub
-Repository](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/IES_MILESTONE2_RFP.md) if your firm would like updates about changes and comments.
+Repository](https://github.com/akhealth/RFP-IES-Milestone2/tree/main) if your firm would like updates about changes and comments.
 Questions or comments received after the required deadline may not be
 answered.
 
@@ -567,7 +567,7 @@ Increments 1-5, we are looking to move the remaining Medicaid categories
 off the legacy mainframe to a modern system exercising our user centered
 design practices, modern software development methods and security
 focused continuous deployment processes. Specific information regarding
-this procurement can be found in the [RFP-IES-Milestone 2 GitHub Repo](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/IES_MILESTONE2_RFP.md)
+this procurement can be found in the [RFP-IES-Milestone 2 GitHub Repo](https://github.com/akhealth/RFP-IES-Milestone2/tree/main)
 (**make sure to add yourself as a watcher to receive updates**).
 
 ## Sec. 2.02 Medicaid Program Background Information
@@ -664,7 +664,7 @@ Medicaid in Alaska are:
 - Supplemental Security Income (SSI) Recipient
 - APA Recipient
 - SSI Eligible - Not Receiving Cash Payments
-- APA Eligible - Not Receiving CashPayments
+- APA Eligible - Not Receiving Cash Payments
 - SSI or APA Ineligibles for Reasons Prohibited by Medicaid
 - Working Disabled Medicaid Buy-In
 - Special Long Term Care
@@ -998,7 +998,7 @@ the existing infrastructure listed in [Section 2.04](#sec-204-current-architectu
 
 The resulting system must also integrate with the components above to
 meet the key objectives, all CMS required outcomes in [Section 2.03](#sec-203-outcomes-and-measurements) and
-comply with the requirements in the attached [QAP](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2007%20Quality%20Assuance%20Plan%20(QAP)%20and%20Service%20Level%20Agreement%20(SLA).pdf).
+comply with the requirements in the attached [QAP](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/07%20Quality%20Assuance%20Plan%20(QAP)%20and%20Service%20Level%20Agreement%20(SLA).pdf).
 
 The goal of this project is to:
 - Issue Medicaid program benefits based on program rules in accordance
@@ -1023,7 +1023,7 @@ The goal of this project is to:
 - Implement a fully redesigned worker portal – UI/UX staff/researcher
   improve user experience
 - Adhere to the DOH technical [Quality Assurance Plan (QAP) and related
-  service level agreements (SLAs)](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2007%20Quality%20Assuance%20Plan%20(QAP)%20and%20Service%20Level%20Agreement%20(SLA).pdf)
+  service level agreements (SLAs)](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/07%20Quality%20Assuance%20Plan%20(QAP)%20and%20Service%20Level%20Agreement%20(SLA).pdf)
 - Review and incorporate the DOH technical team prototype findings
 - Enhance reporting, data access, and auditability
 - Implement an automated testing framework to verify QAP adherence
@@ -1052,13 +1052,13 @@ The goal of this project is to:
   modern and necessary browsers.
 - All software code delivered under this order shall comply with
   the [18F open source
-  policy](https://github.com/18F/open-source-policy/blob/master/policy.md) in
+  policy](https://github.com/akhealth/18F-open-source-policy) in
   effect as of the date of award.
 - All software code delivered under this order shall comply with
   the [18F accessibility guidance](https://accessibility.18f.gov/) in
   effect as of the date of award.
 - APIs should comply with the [18F API
-  standards.](https://github.com/18F/api-standards)
+  standards.](https://github.com/akhealth/18F-api-standards)
 - Work will be conducted in 2-4 week sprints and reviewed at the end of
   each sprint for acceptability before moving on.
 - Contractor shall ensure that system documentation is as automated as
@@ -1236,7 +1236,7 @@ The contractor will be required to provide the following deliverables:
 | Training Materials | Following an agreed upon timeline and prior to eligibility worker use | All related training materials including screenshots, how-to guides, workflow diagrams etc. |
 | Security Documentation | At the end of every applicable sprint | Information that must be included in division security documentation to satisfy all relevant Federal, State, and Department requirements. Note that this information is required as part of the authorization to operate process. Authorization to operate is a requirement of system production. |
 | Technical Documentation | At the end of every applicable sprint | Any system documentation, either new or updated that results from these activities. This could include developer resources, changes to existing database, business rule documentation, network diagrams, or systems architecture documentation, etc. |
-| Project Management Plan | At the end of Sprint 2 | Streamlined project management plan. Details can be found in [Sec 3.02](#sec-302-project-management-requirements)|
+| Project Management Plan | At the end of Sprint 2 | Streamlined project management plan. Details can be found in [Sec. 3.02 Product Management Requirements](#sec-302-product-management-requirements)|
 | Testing Plan | At the end of Sprint 6 | Comprehensive testing plan. Details contained in [Sec. 3.02 Product Management Requirements](#sec-302-product-management-requirements)|
 | Design Research Plan | At the end of Sprint 2 | Details can be found in [Sec. 3.02 Product Management Requirements](#sec-302-product-management-requirements)|
 | Usability Plan | At the end of Sprint 2 | Details can be found in [Sec. 3.02 Product Management Requirements](#sec-302-product-management-requirements)|
@@ -1282,7 +1282,7 @@ appropriate.
 
 The contractor shall comply with the acceptable quality levels (AQL) as
 described in the attached [quality assurance plan
-(QAP)](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2007%20Quality%20Assuance%20Plan%20(QAP)%20and%20Service%20Level%20Agreement%20(SLA).pdf).
+(QAP)](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/07%20Quality%20Assuance%20Plan%20(QAP)%20and%20Service%20Level%20Agreement%20(SLA).pdf).
 
 ## Sec. 3.05 HIPAA Security Assessment Requirements
 
@@ -1338,7 +1338,7 @@ all requirements set forth in the HIPAA and Health Information
 Technology for Economic and Clinical Health Act (HITECH) Information
 Security Agreement (ISA), attached with this RFP as [Attachment 4
 Standard Agreement Form - Appendix F Information Security Agreement
-(ISA)](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2004%20Standard%20Agreement%20Form%20-%20Appendix%20A%20-%20F.pdf). This ISA will be included in the fully executed contract.
+(ISA)](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/04%20Standard%20Agreement%20Form%20-%20Appendix%20A%20-%20F.pdf). This ISA will be included in the fully executed contract.
 
 For DOH IT Security purposes, any conflict between these requirements
 and the BAA, the ISA supersedes the BAA.
@@ -1432,8 +1432,8 @@ document in their proposal, that provides a detailed description of the
 portion of work that will be performed outside the United States, where,
 by whom, and the reason that is necessary.
 
-The offeror must also provide this information when completing the DOH
-IT Contractual Requirements Submittal Form.
+The offeror must also provide this information when completing the [DOH
+IT Contractual Requirements Submittal Form](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/02%20DOH%20IT%20Contractual%20Requirements.xlsx).
 
 Failure to comply with these requirements may cause the state to reject
 the proposal as non-responsive or cancel the contract.
@@ -1458,8 +1458,8 @@ cause the state to consider their proposal non-responsive and reject it.
 
 Subcontractor experience shall not be considered in determining whether
 the offeror meets the requirements set forth in [Submittal Form F –
-Mandatory Requirements](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2004%20Standard%20Agreement%20Form%20-%20Appendix%20A%20-%20F.pdf). **Offerors must be specific in Submittal Form F
-as to which subcontractor(s) defined in [Submittal Form G](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2004%20Standard%20Agreement%20Form%20-%20Appendix%20A%20-%20F.pdf) –
+Mandatory Requirements](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/04%20Standard%20Agreement%20Form%20-%20Appendix%20A%20-%20F.pdf). **Offerors must be specific in Submittal Form F
+as to which subcontractor(s) defined in [Submittal Form H](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/01%20Submittal%20Forms%20A-H.docx) –
 Subcontractors they are citing to meet the specific requirement listed
 in Submittal Form F.**
 
@@ -1772,7 +1772,7 @@ participates in a boycott of the State of Israel.
 
 This clause does not restrict the state's termination rights under the
 contract provisions of Appendix A or Appendix E, attached in [SECTION
-7. Attachments](#sec-701-attachment-1----submittal-forms-a---h).
+7. Attachments](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/04%20Standard%20Agreement%20Form%20-%20Appendix%20A%20-%20F.pdf).
 
 ## Sec. 3.26 Termination and System Operation
 
@@ -1803,7 +1803,7 @@ to the contract termination date.
 
 This RFP contains Submittal Forms, which must be completed by the
 offeror and submitted as their proposal. An electronic copy of the forms
-is posted along with this RFP, [see SEC. 7.01 – DOH RFP Submittal Forms](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2001%20Submittal%20Forms%20A-H.docx).
+is posted along with this RFP, [see SEC. 7.01 – DOH RFP Submittal Forms](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/01%20Submittal%20Forms%20A-H.docx).
 Offerors shall not re-create these forms, create their own forms, or
 edit the format structure of the forms unless permitted to do so.
 
@@ -1955,11 +1955,11 @@ Scope of Work](#sec-301-scope-of-work) and [Section 3.04 Deliverables](#sec-304-
 to discuss, either in the written proposal or during the verbal
 presentation, any technical risks or opportunities. This section should
 include your proposed plans to adhere to the technical requirements and
-standards listed out in Attachment 2, attached in [SECTION 7. Attachments](#sec-701-attachment-1----submittal-forms-a---h).
+standards listed out in [Attachment 2, attached in SECTION 7. Attachments](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/02%20DOH%20IT%20Contractual%20Requirements.xlsx).
 
 SPECIAL NOTE: The offeror shall not disclose their costs in this
 Submittal Form. This Submittal Form cannot exceed the page limit, as
-described in [Section 4.02](#sec-402-special-formatting-requirements).
+described in [Section 4.02]((#sec-402-special-formatting-requirements).
 
 ## Sec. 4.06 Approach to User Interface and User Experience (Submittal Form D)
 
@@ -2014,8 +2014,8 @@ for any user facing system changes, there will need to be some amount of
 user research and design.
 
 SPECIAL NOTE: The offeror shall not disclose their costs in this
-Submittal Form. This Submittal Form cannot exceed the page limit (as
-described in Section 4.02).
+Submittal Form. This Submittal Form cannot exceed the page limit as
+described in [Sec. 4.02 Special Formatting Requirements](#sec-402-special-formatting-requirements).
 
 ## Sec. 4.07 Product Management Approach (Submittal Form E)
 
@@ -2039,8 +2039,8 @@ CI/CD pipeline. Describe how you envision incorporating user testing.
 process and how that will tie in with other delivery activities.
 
 SPECIAL NOTE: The offeror shall not disclose their costs in this
-Submittal Form. This Submittal Form cannot exceed the page limit (as
-described in Section 4.02).
+Submittal Form. This Submittal Form cannot exceed the page limit as
+described in [Sec. 4.02 Special Formatting Requirements](#sec-402-special-formatting-requirements).
 
 ## Sec. 4.08 Mandatory Requirements (Submittal Form F)
 
@@ -2242,8 +2242,7 @@ experience with similar technology, software development and related
 development methodology, human-centered design, and continuous
 deployment methods.
 
-This Submittal Form must not exceed ten pages (reference RFP section
-4.02); however, resumes and letters of intent are not included in the
+This [Submittal Form](#sec-402-special-formatting-requirements) must not exceed ten pages; however, resumes and letters of intent are not included in the
 page limitation and may be submitted as attachments.
 
 ## Sec. 5.05 Technical Understanding and Approach
@@ -2388,8 +2387,7 @@ knowledge and understanding of the scope of work, obstacles and
 challenges, strategies, and their plan/approach. The state may request
 additional information prior to interviews. The PEC will score each
 interview individually using the 1, 5, 10 scoring method described in
-Section 5.03, and may have a group discussion prior to finalizing
-scores.
+[Sec. 5.03 Scoring Method and Calculation](#sec-503-scoring-method-and-calculation), and may have a group discussion prior to finalizing scores.
 
 ## Sec. 5.11 Cost Reasonableness
 
@@ -2519,9 +2517,7 @@ The State has a standard BAA that is included in contracts that involve
 Personal Health Information (PHI) covered under the Health Insurance
 Portability and Accountability (HIPAA) Act. This BAA will be included in
 the fully executed contract and is attached along with this RFP as HIPAA
-BAA. Similar to Section 6.03, any request to change language in this
-document must be set out in the offeror’s proposal in a separate
-document.
+BAA. Similar to [Sec. 6.03 Standard Contract Provisions](#sec-603-standard-contract-provisions), any request to change language in this document must be set out in the offeror’s proposal in a separate document.
 
 ## Sec. 6.05 Qualified Offerors
 
@@ -2635,7 +2631,7 @@ contract did not contain the particular provision held to be invalid.
 
 ## Sec. 6.14 Supplemental Terms and Conditions
 
-Proposals must comply with Section 6.08 Right of Rejection. However, if
+Proposals must comply with [Sec. 6.08 Human Trafficking](#sec-608-human-trafficking) Right of Rejection. However, if
 the state fails to identify or detect supplemental terms or conditions
 that conflict with those contained in this RFP or that diminish the
 state's rights under any contract resulting from the RFP, the term(s) or
@@ -2787,34 +2783,34 @@ Article 8 "Legal and Contractual Remedies.”
 ## Sec. 7.01 Attachment 1 -- Submittal Forms A - H
 
 Submittal Forms A - H can be found in this repository at [Attachment 1 -
-Submittal Forms A - H](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2001%20Submittal%20Forms%20A-H.docx)
+Submittal Forms A - H](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/01%20Submittal%20Forms%20A-H.docx)
 
 ## Sec. 7.02 Attachment 2 -- DOH IT Contractual Requirements
 
-The DOH IT Contractual Requirements can be found in this repository at [Attachment 2 - DOH IT Contractual Requirements](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2002%20DOH%20IT%20Contractual%20Requirements.xlsx)
+The DOH IT Contractual Requirements can be found in this repository at [Attachment 2 - DOH IT Contractual Requirements](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/02%20DOH%20IT%20Contractual%20Requirements.xlsx)
 
 ## Sec. 7.03 Attachment 3 -- Submittal Form I - Cost Proposal
 
 The Cost Proposal Form can be found in this repository at
-[Attachment 3 - Submittal Form I - Cost Propsal](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2003%20Submittal%20Form%20I%20Cost%20Proposal.xlsx)
+[Attachment 3 - Submittal Form I - Cost Propsal](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/03%20Submittal%20Form%20I%20Cost%20Proposal.xlsx)
 
 ## Sec. 7.04 Attachment 4 -- Standard Agreement Form
 
 The Standard Agreement Form (with Appendices) can be found in
-this repository at [Attachment 4 - Standard Agreement Form - Appendix A - F](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2004%20Standard%20Agreement%20Form%20-%20Appendix%20A%20-%20F.pdf)
+this repository at [Attachment 4 - Standard Agreement Form - Appendix A - F](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/04%20Standard%20Agreement%20Form%20-%20Appendix%20A%20-%20F.pdf)
 
 ## Sec. 7.05 Attachment 5 -- Federal Regulations
 
 The Federal Regulations can be found in this repository at [Attachment
-5 - Federal Regulations](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2005%20Federal%20Regulations.pdf)
+5 - Federal Regulations](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/05%20Federal%20Regulations.pdf)
 
 ## Sec. 7.06 Attachment 6 -- Non-Disclosure Agreement and Intent to Propose
 
 The Non-Disclosure Agreement and Intent to Propose can be found in this repository at [Attachment
-6 - NDA-Non-Disclosure Agreement and Intent to Propose](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2006%20Non%20Disclosure%20Agreement%20and%20Intent%20to%20Propose.pdf)
+6 - NDA-Non-Disclosure Agreement and Intent to Propose](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/06%20Non%20Disclosure%20Agreement%20and%20Intent%20to%20Propose.pdf)
 
 ## Sec. 7.07 Attachment 7 -- Quality Assurance Plan (QAP) and Service Level Agreement (SLA)
 
 The Quality Assurance Plan and Service Level Agreement can be found in this repository at
 [Attachment 7 -
-Quality Assurance Plan (QAP) and Service Level Agreement (SLA)](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2007%20Quality%20Assuance%20Plan%20(QAP)%20and%20Service%20Level%20Agreement%20(SLA).pdf)
+Quality Assurance Plan (QAP) and Service Level Agreement (SLA)](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/07%20Quality%20Assuance%20Plan%20(QAP)%20and%20Service%20Level%20Agreement%20(SLA).pdf)
