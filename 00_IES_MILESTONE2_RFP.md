@@ -324,7 +324,7 @@ within this [RFP’s GitHub repository](https://github.com/akhealth/RFP-IES-Mile
 Standard Time on **XXX X, 2025**, to allow the State sufficient time
 to respond. All questions and comments will be publicly available.
 Please add yourself as a watcher on the [Milestone 2 RFP GitHub
-Repository](https://github.com/akhealth/RFP-IES-Milestone2/tree/main) if your firm would like updates about changes and comments.
+Repository](https://github.com/akhealth/RFP-IES-Milestone2) if your firm would like updates about changes and comments.
 Questions or comments received after the required deadline may not be
 answered.
 
