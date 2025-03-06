@@ -1055,7 +1055,7 @@ The goal of this project is to:
   policy](https://github.com/akhealth/18F-open-source-policy) in
   effect as of the date of award.
 - All software code delivered under this order shall comply with
-  the [18F accessibility guidance](https://accessibility.18f.gov/) in
+  the [18F accessibility guidance](https://github.com/akhealth/18F-guides/tree/main/content/accessibility) in
   effect as of the date of award.
 - APIs should comply with the [18F API
   standards.](https://github.com/akhealth/18F-api-standards)
@@ -1259,7 +1259,7 @@ or reject all deliverables.
 
 Acceptance of services and deliverables will be based on the criteria
 laid out in the [quality assurance
-plan](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Appendix%2007%20Quality%20Assuance%20Plan%20(QAP)%20and%20Service%20Level%20Agreement%20(SLA).pdf).
+plan](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/07%20Quality%20Assuance%20Plan%20(QAP)%20and%20Service%20Level%20Agreement%20(SLA).pdf).
 
 **SYSTEM DOCUMENTATION**
 
@@ -1458,7 +1458,7 @@ cause the state to consider their proposal non-responsive and reject it.
 
 Subcontractor experience shall not be considered in determining whether
 the offeror meets the requirements set forth in [Submittal Form F –
-Mandatory Requirements](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/04%20Standard%20Agreement%20Form%20-%20Appendix%20A%20-%20F.pdf). **Offerors must be specific in Submittal Form F
+Mandatory Requirements](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/01%20Submittal%20Forms%20A-H.docx). **Offerors must be specific in Submittal Form F
 as to which subcontractor(s) defined in [Submittal Form H](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/01%20Submittal%20Forms%20A-H.docx) –
 Subcontractors they are citing to meet the specific requirement listed
 in Submittal Form F.**
@@ -2631,7 +2631,7 @@ contract did not contain the particular provision held to be invalid.
 
 ## Sec. 6.14 Supplemental Terms and Conditions
 
-Proposals must comply with [Sec. 6.08 Human Trafficking](#sec-608-human-trafficking) Right of Rejection. However, if
+Proposals must comply with [Sec. 6.09 Right of Rejection](#sec-609-right-of-rejection). However, if
 the state fails to identify or detect supplemental terms or conditions
 that conflict with those contained in this RFP or that diminish the
 state's rights under any contract resulting from the RFP, the term(s) or
