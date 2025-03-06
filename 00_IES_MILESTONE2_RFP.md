@@ -567,7 +567,7 @@ Increments 1-5, we are looking to move the remaining Medicaid categories
 off the legacy mainframe to a modern system exercising our user centered
 design practices, modern software development methods and security
 focused continuous deployment processes. Specific information regarding
-this procurement can be found in the [RFP-IES-Milestone 2 GitHub Repo](https://github.com/akhealth/RFP-IES-Milestone2/tree/main)
+this procurement can be found in the [RFP-IES-Milestone 2 GitHub Repo](https://github.com/akhealth/RFP-IES-Milestone2)
 (**make sure to add yourself as a watcher to receive updates**).
 
 ## Sec. 2.02 Medicaid Program Background Information
