@@ -8,7 +8,7 @@
 
 RFP **2025-1600-0188**
 
-Issued DATE
+Issued March 11, 2025
 
 The Alaska Department of Health (DOH) is soliciting proposals for
 qualified contractors to support the continuing modernization
@@ -295,8 +295,8 @@ contingent upon legislative appropriation or federal funding.
 
 ## Sec. 1.03 Deadline for Receipt of Proposals
 
-Proposals must be received no later than **TIME** standard Alaska Time
-on **DATE**. Late proposals or amendments will be disqualified and not
+Proposals must be received no later than **2:00 PM** standard Alaska Time
+on **May 12, 2025**. Late proposals or amendments will be disqualified and not
 opened or accepted for evaluation.
 
 ## Sec. 1.04 Mandatory Requirements
@@ -321,7 +321,7 @@ could not be made.
 
 Questions or comments regarding this RFP shall be submitted as issues
 within this [RFP’s GitHub repository](https://github.com/akhealth/RFP-IES-Milestone2/issues) no later than **4:00 PM** Alaska
-Standard Time on **XXX X, 2025**, to allow the State sufficient time
+Standard Time on **May 2, 2025**, to allow the State sufficient time
 to respond. All questions and comments will be publicly available.
 Please add yourself as a watcher on the [Milestone 2 RFP GitHub
 Repository](https://github.com/akhealth/RFP-IES-Milestone2) if your firm would like updates about changes and comments.
@@ -397,14 +397,14 @@ schedule may be shifted accordingly. All times are Alaska Time.
 
 | **Activity**| **Time**| **Date**|
 |------|------|------|
-| Issue Date / RFP Released               |                     |                        |
-| Deadline to Submit Questions            |                     |                        |
-| Deadline for Receipt of Proposals / Proposal Due Date |  |                        |
-| Proposal Evaluations Start              |                     |                        |
-| Interviews Complete                     |                     |                        |
-| Notice of Intent to Award               |                     |                        |
-| Contract Issued for Review and Signature|                     |                        |
-| Contract Start Date                     |                     |                        |
+| Issue Date / RFP Released               |     | **March 11,  2025**                    |
+| Deadline to Submit Questions            |  **4:00 PM**            | **May 2, 2025**    |
+| Deadline for Receipt of Proposals / Proposal Due Date | **2:00 PM** |  **May 12, 2025**  |
+| Proposal Evaluations Start              |               |    **June 2, 2025**  |     
+| Interviews Complete                     |                       | **June 27, 2025**    | 
+| Notice of Intent to Award               |                  |   **Week of June 30, 2025**   |                    
+| Contract Issued for Review and Signature|                     |  **July 15, 2025**    |
+| Contract Start Date                     |                     | **August 1, 2025**   |
 
 This RFP does not, by itself, obligate the state. The state's obligation
 will commence when the contract is approved by the Commissioner of the
@@ -1870,7 +1870,6 @@ The Submittal Form also requests the following information:
 4. Addenda acknowledgement.
 5. Conflict of interest statement.
 6. Federal requirements.
-7. Alaska preference qualifications.
 
 An offeror's failure to provide this information may cause the proposal
 to be determined to non-responsive and rejected.
@@ -2281,8 +2280,7 @@ of Each Higher Priced Proposal)*
 
 **Step 1**
 
-List all proposal prices, adjusted where appropriate by the application
-of applicable preferences claimed by the offeror.
+List all proposal prices.
 
 Offeror \#1 \$40,000  
 Offeror \#2 \$42,750  
@@ -2458,11 +2456,7 @@ performed by the contractor.
 ## Sec. 6.02 Alaska Business License and Other Required Licenses
 
 Prior to the award of a contract, an offeror must hold a valid Alaska
-business license. However, in order to receive the Alaska Bidder
-Preference and other related preferences, such as the Alaska Veteran
-Preference and Alaska Offeror Preference, an offeror must hold a valid
-Alaska business license prior to the deadline for receipt of proposals.
-Offerors should contact the **Department of Commerce, Community and
+business license. Offerors should contact the **Department of Commerce, Community and
 Economic Development, Division of Corporations, Business, and
 Professional Licensing** for information on these licenses. Acceptable
 evidence that the offeror possesses a valid Alaska business license may
