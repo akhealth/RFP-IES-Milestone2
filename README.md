@@ -39,11 +39,12 @@ We've made every effort to allow for less burden in what we require from interes
 
 ### Budget
 
-We estimate a budget of XXXX dollars for the completion of this project as outlined in the RFP. Proposals priced at more than this amount will be considered non-responsive.  This will be a time and materials contract.
+We estimate a budget of \$20,000,000.00 dollars for the completion of this project as outlined in the RFP. Proposals priced at more than this amount will be considered non-responsive.  This will be a time and materials contract.
 
 ### Contract Term
 
-This contract term is planned to be XXXXX
+The length of the contract will be from the date of award for eighteen months, with one additional one-year renewal option to be exercised atthe sole discretion of the state.
+
 
 ## Contributing
 See [CONTRIBUTING](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/Contributing) for additional information.
