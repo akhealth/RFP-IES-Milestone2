@@ -10,22 +10,22 @@ rest of the schedule may be shifted by the same number of days. **All
 times are Alaska Prevailing Time**.
 
 
--   Issue RFP on XXXXXX
+-   Issue RFP on **March 24, 2025**
 
--   Deadline for receipt of questions on XXXXX
+-   Deadline for receipt of questions on **4:00 p.m. on May 15, 2025**
 
--   Deadline for receipt of proposals on XXXX
+-   Deadline for receipt of proposals on **2:00 p.m. on May 27, 2025**
 
--   Proposal Evaluation Committee complete evaluation XXXX
+-   Proposal Evaluation Committee complete evaluation **June 20, 2025**
 
--   State of Alaska issues Notice of Intent to Award a Contract by XXXXX
+-   State of Alaska issues Notice of Intent to Award a Contract by **Week of June 30, 2025**
 
--   State of Alaska issues contract on XXXXX
+-   State of Alaska issues contract on **July 18, 2025**
 
--   Contract begins XXXXX
+-   Contract begins **August 4, 2025**
 
 
-All Questions must be received by **XXXXX** in the form of an issue posted to this repository. 
+All Questions must be received by **4:00 p.m. on May 15, 2025** in the form of an issue posted to this repository. 
 
 
 
