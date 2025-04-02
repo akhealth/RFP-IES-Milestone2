@@ -9,6 +9,8 @@ schedule, such as the deadline for receipt of proposals, is delayed, the
 rest of the schedule may be shifted by the same number of days. **All
 times are Alaska Prevailing Time**.
 
+To complete your submission, you must download and fill out Attachments 01-03. To do so, click **Download Raw File** for each attachment. Once downloaded, complete the required fields and include the finalized documents in your submission package.
+
 
 -   Issue RFP on **March 24, 2025**
 
