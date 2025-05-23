@@ -1373,17 +1373,11 @@ cancellation.
 
 ## Sec. 3.10 Contract Type
 
-This contract is a firm fixed price contract in accordance with the rates proposed in [Attachment 03, Submittal form I-Cost Proposal] (https://github.com/akhealth/RFP-IES-Milestone2/blob/main/03%20Submittal%20Form%20I%20Cost%20Proposal.xlsx
-RFP-IES-Milestone2/03 Submittal Form I Cost Proposal.xlsx at main · akhealth/RFP-IES-Milestone2
-RFP #2025-1600-0188 for Eligibility Modernization Milestone 2: Increments 1-5 - akhealth/RFP-IES-Milestone2
- ).
+This contract is a firm fixed price contract in accordance with the rates proposed in [Attachment 03, Submittal form I-Cost Proposal](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/03%20Submittal%20Form%20I%20Cost%20Proposal.xlsx).
 
 ## Sec. 3.11 Payment Procedures
 
-The state will make monthly payments based on the hourly rates identified in [Attachment 03 Submittal Form I – Cost Proposal] (https://github.com/akhealth/RFP-IES-Milestone2/blob/main/03%20Submittal%20Form%20I%20Cost%20Proposal.xlsx
-RFP-IES-Milestone2/03 Submittal Form I Cost Proposal.xlsx at main · akhealth/RFP-IES-Milestone2
-RFP #2025-1600-0188 for Eligibility Modernization Milestone 2: Increments 1-5 - akhealth/RFP-IES-Milestone2
- ). Each billing must consist of an invoice and progress report. No payment will be made until the progress report and invoice has been approved by the project director.
+The state will make monthly payments based on the hourly rates identified in [Attachment 03 Submittal Form I – Cost Proposal](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/03%20Submittal%20Form%20I%20Cost%20Proposal.xlsx). Each billing must consist of an invoice and progress report. No payment will be made until the progress report and invoice has been approved by the project director.
 
 ## Sec. 3.12 Contract Payment
 
@@ -1889,7 +1883,7 @@ part of your page limitation.
 
 Provide a staffing approach that describes your understanding of the
 responsibilities and details the number or personnel by skill
-level/labor category needed to satisfy [Section 3.01: Scope of Work](#sec-301-scope-of-work) as
+level/labor category needed to satisfy [Section 3.01 Scope of Work](#sec-301-scope-of-work) as
 well as [Section 3.19 Contract Personnel](#sec-319-contract-personnel).
 
 At a minimum, in this section, provide:
@@ -2169,8 +2163,7 @@ assigned to accomplish the work called for in this RFP; illustrate the
 lines of authority; designate the individual responsible and accountable
 for the completion of each component and deliverable of the RFP.
 
-Offerors must provide a proposed staffing plan ([in Submittal Form B]) (https://github.com/akhealth/RFP-IES-Milestone2/blob/main/01%20Submittal%20Forms%20A-H.docx). It should include the
-following:
+Offerors must provide a proposed staffing plan in [Submittal Form B](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/01%20Submittal%20Forms%20A-H.docx). It should include the following:
 
 - Narrative description of the organization of the project team;
 - Personnel roster that identifies each person who will work on the
