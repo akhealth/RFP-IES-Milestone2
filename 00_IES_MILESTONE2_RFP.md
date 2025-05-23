@@ -295,8 +295,8 @@ contingent upon legislative appropriation or federal funding.
 
 ## Sec. 1.03 Deadline for Receipt of Proposals
 
-Proposals must be received no later than **2:00 PM** standard Alaska Time
-on **May 27, 2025**. Late proposals or amendments will be disqualified and not
+Proposals must be received no later than **12:00 PM** standard Alaska Time
+on **June 9, 2025**. Late proposals or amendments will be disqualified and not
 opened or accepted for evaluation.
 
 ## Sec. 1.04 Mandatory Requirements
@@ -399,12 +399,12 @@ schedule may be shifted accordingly. All times are Alaska Time.
 |------|------|------|
 | Issue Date / RFP Released               |     | **March 24,  2025**                    |
 | Deadline to Submit Questions            |  **4:00 PM**            | **May 15, 2025**    |
-| Deadline for Receipt of Proposals / Proposal Due Date | **2:00 PM** |  **May 27, 2025**  |
-| Proposal Evaluations Start              |               |    **June 5, 2025**  |     
-| Interviews Complete                     |                       | **June 30, 2025**    | 
-| Notice of Intent to Award               |                  |   **Week of June 30, 2025**   |                    
-| Contract Issued for Review and Signature|                     |  **July 18, 2025**    |
-| Contract Start Date                     |                     | **August 4, 2025**   |
+| Deadline for Receipt of Proposals / Proposal Due Date | **12:00 PM** |  **June 9, 2025**  |
+| Proposal Evaluations Start              |               |    **June 18, 2025**  |     
+| Interviews Complete                     |                       | **July 11, 2025**    | 
+| Notice of Intent to Award               |                  |   **Week of July 14, 2025**   |                    
+| Contract Issued for Review and Signature|                     |  **July 31, 2025**    |
+| Contract Start Date                     |                     | **August 15, 2025**   |
 
 This RFP does not, by itself, obligate the state. The state's obligation
 will commence when the contract is approved by the Commissioner of the
@@ -1373,14 +1373,11 @@ cancellation.
 
 ## Sec. 3.10 Contract Type
 
-This contract is a firm fixed price contract.
+This contract is a firm fixed price contract in accordance with the rates proposed in Attachment 03, Submittal form I-Cost Proposal.
 
 ## Sec. 3.11 Payment Procedures
 
-The state will make payments based on a negotiated payment schedule.
-Each billing must consist of an invoice and progress report. No payment
-will be made until the progress report and invoice has been approved by
-the project director.
+The state will make monthly payments based on the hourly rates identified in Attachment 03 Submittal Form I – Cost Proposal. Each billing must consist of an invoice and progress report. No payment will be made until the progress report and invoice has been approved by the project director.
 
 ## Sec. 3.12 Contract Payment
 
@@ -1527,26 +1524,14 @@ listed skillsets.
 
 **DESIRED SKILLS AND KNOWLEDGE**
 
-The contractor team shall have knowledge and skills in the following
-areas:
-
-Current Eligibility System Technology: IBM WebSphere, IBM Operational
-Decision Manager, IBM Security Access Manager, Mule ESB, OpenText
-Exstream, Quartz Scheduler, built on JAVA frameworks
-
 The DOH vision on overall architecture of the application are shown in 
 [Figure 1](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/media/architecture%20.jpg) and [Figure 2](https://github.com/akhealth/RFP-IES-Milestone2/blob/main/media/architecture1.jpg).
 
-Microsoft Technology: Azure cloud platform, .NET Core Language, SQL
-Server
-
-General Technology: HTML, CSS, JavaScript, Responsive design, SQL
-(language), Git, Experience working with, using, and building REST APIs,
-Service-based architecture, automated unit and integration testing,
-continuous integration and continuous delivery (CI/CD)
-
-Security: Minimal Acceptable Risk Standards for Exchanges (MARS-E)
-2.2/ARC-AMPE Framework, CMS security review processes
+It would be helpful if the contractor team had knowledge and skills in the following areas:
+- Current Eligibility System Technology: IBM WebSphere, IBM Operational Decision Manager, IBM Security Access Manager, Mule ESB, OpenText Exstream, Quartz Scheduler, built on JAVA frameworks
+- Microsoft Technology: Azure cloud platform, Azure SQL Server, Azure API Gateway, Azure Container Service
+- General Technology: HTML, CSS, JavaScript, Responsive design, SQL (language), Git, Experience working with, using, and building REST APIs, Service-based architecture, automated unit and integration testing, continuous integration and continuous delivery (CI/CD)
+- Security: Minimal Acceptable Risk Standards for Exchanges (MARS-E) 2.2/ARC-AMPE Framework, CMS security review processes
 
 **KEY PERSONNEL**
 
@@ -1582,19 +1567,19 @@ and budget. Desired skills/experience for the Product Manager include:
 - Strong communication skills (both written and oral)
 - Proven knowledge of industry standards
 
-The ***Product Manager*** should have a minimum of three (3) years'
+The **Product Manager** should have a minimum of three (3) years'
 experience in the last five (5) years leading a project for a health and
 human services organization. This experience should be reflected in the
 proposed Product Manager's resume.
 
-The ***Technical Lead*** should have a full understanding of the
+The **Technical Lead** should have a full understanding of the
 technical approach discussed in the proposal interview and is
 responsible for ensuring that the contractor follows the proposed
 approach. The ***Technical Lead*** should have a minimum of three (3)
 years' experience in the last five (5) years in a technical leadership
 role.
 
-The ***Eligibility and Enrollment SME*** should have (3) years
+The **Eligibility and Enrollment SME** should have (3) years
 experience within the last five (5) years in a comparable role on a
 similar project.
 
@@ -1876,9 +1861,8 @@ to be determined to non-responsive and rejected.
 
 ## Sec. 4.04 Experience and Qualifications (Submittal Form B)
 
-Offerors must describe how they fully meet the mandatory requirements of
-listed in [Section 1.04](#sec-104-mandatory-requirements) and personnel and criteria identified in [Section
-3.16](#sec-316-joint-ventures).
+Offerors must describe how they fully meet the mandatory requirements
+listed in [Section 1.04](#sec-104-mandatory-requirements) and personnel and criteria identified in [Section 3.19 Contract Personnel](#sec-319-contract-personnel).
 
 Offerors must also provide a narrative description of the organization
 of the project team and a personnel roster that identifies lines of
@@ -1887,7 +1871,7 @@ contract, please provide the following:
 
 - Title and identification of the work this individual will be
 responsible for
-- Resume and specifically related work experience.
+- Resume and specifically related work experience for key personnel.
 
 Offerors must provide information describing work completed of a similar
 scope and complexity. Please provide experiences with similar technology
@@ -1910,7 +1894,7 @@ of the scope and project desired outcomes;
 personnel, and hours; and
 - A list of Key Personnel by name, title, contact information, proposed
 duties and roles, and resumes for each proposed Key Personnel in
-accordance with [Section 3.19: Contract Personnel](#sec-319-contract-personnel). Resumes should include
+accordance with [Section 3.19 Contract Personnel](#sec-319-contract-personnel). Resumes should include
 a description of the experience and capability for all Key Personnel
 proposed for the offeror’s project team. Resumes should also address the
 individual’s technical background, education, work experience, and
@@ -1923,23 +1907,7 @@ The staffing approach is included as part of your page limitation;
 however, resumes and letters of intent or recommendations are not
 included in the page limitation.
 
-Offerors must provide an organizational chart specific to the personnel
-assigned to accomplish the work called for in this RFP; illustrate the
-lines of authority; designate the individual responsible and accountable
-for the completion of each component and deliverable of the RFP.
-
-Offerors must provide a narrative description of the organization of the
-project team and a personnel roster that identifies each person who will
-actually work on the contract and provide the following information
-about each person listed:
-
-- title,
-- resume,
-- location(s) where work will be performed,
-- itemize the total cost and the number of estimated hours for each
-  individual named above.
-
-Offerors must provide reference names and phone numbers for similar
+Offerors must provide reference names and contact information for similar
 projects the offeror’s firm has completed.
 
 SPECIAL NOTE: The offeror shall not disclose their costs in this
@@ -2195,54 +2163,22 @@ assigned to accomplish the work called for in this RFP; illustrate the
 lines of authority; designate the individual responsible and accountable
 for the completion of each component and deliverable of the RFP.
 
-Offerors must provide a proposed staffing plan. It should include the
-following: narrative description of the organization of the project team
-and a personnel roster that identifies each person who will actually
-work on the contract and provide the following information about each
-person listed:
+Offerors must provide a proposed staffing plan (in Submittal Form B). It should include the
+following:
 
 - Narrative description of the organization of the project team;
 - Personnel roster that identifies each person who will work on the
-  project to include their role
-- Identify key staff and their level of allocation to the project;
-- Provide resumes for key staff
-
-Key Staff should include the offeror’s Project and Deputy Manager, Lead
-Technical Manager, Business Manager, Lead Business Analyst, and all
-business analysts, implementation team members and team leader, and
-integration architect.
-
-It would be highly desirable for members of the offeror’s key staff to
-have prior or current experience working with the Department.
-
-Offerors must provide reference names and phone numbers for similar
-projects the offeror’s firm has completed to include contract value and
-a brief description of the eligibility system projects that were
-successfully completed.
-
-The offeror’s project manager should have the following:
-
-- A current Project Management Institute (PMI) Project Management
-  Professional (PMP) certification or equivalent recognized project
-  management certification (not a certificate for the completion of a
-  project management course); and
-- Served as the project manager or key staff member on an eligibility
-  system implementation project within the previous three years for a
-  system that is still in operation/production.
-- The Offeror should provide a copy of the project manager’s credentials
+  project to include their role and estimated allocation hours (please do not include costs);
+- Identify personnel and provide their resumes
 
 The State will evaluate the offeror's proposed staffing model, skill
 levels, labor categories, allocation, and relevant work experience
-demonstrated by Key Personnel.
+demonstrated by Key Personnel including the following:
 
-The State will evaluate the offeror’s experience in performing work of
-similar scope and complexity. The State will also evaluate the offeror’s
-experience with similar technology, software development and related
-development methodology, human-centered design, and continuous
-deployment methods.
+- Experience in performing work of similar scope and complexity
+- Experience with similar technology, software development and related development methodology, human-centered design, and continuous deployment methods
 
-This [Submittal Form](#sec-402-special-formatting-requirements) must not exceed ten pages; however, resumes and letters of intent are not included in the
-page limitation and may be submitted as attachments.
+This [Submittal Form](#sec-402-special-formatting-requirements) must not exceed ten pages; however, resumes, letters of intent, and letters of recommendation are not included in the page limitation and may be submitted as attachments.
 
 ## Sec. 5.05 Technical Understanding and Approach
 
